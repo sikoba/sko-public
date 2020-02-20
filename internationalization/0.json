@@ -1,0 +1,13 @@
+{
+	"de" => ["German","Deutsch"],
+	"en" => ["English","English"],
+	"es" => ["Spanish","Español"],
+	"fr" => ["French", "français"],
+	"it" => ["Italian","Italiano"],
+	"lb" => ["Luxembourgish","Lëtzebuergesch"],
+	"mk" => ["Macedonian","македонски"],
+	"pl" => ["Polish","Polski"],
+	"pt" => ["Portuguese", "Português"],
+	"zh-Hans" => ["Chinese Simplified", "中文(简体)"],
+	"zh-Hant" => ["Chinese Traditional", "中文(繁體)]
+}
