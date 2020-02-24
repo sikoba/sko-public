@@ -38,7 +38,7 @@
 
   "CONNECTION_LITERAL": "Connection",
   "CONNECTIONS_LITERAL": "Connections",
-  "CONNECTION_TO" : "Connection to",
+  "CONNECTION_TO": "Connection to",
   "CONNECTIONS_LOADING_ERROR": "Error loading connections",
   "NO_CONNECTIONS": "You don't have any connections yet.",
   "CONNECTION_STATUS": "Connection status",
@@ -76,7 +76,7 @@
   "HOW_MUCH_SINGLE_MAX": "How much will the single conversion max. be?",
   "CANT_EXCEED_GLOBAL_MAX": "Single max. can't exceed global max.",
   "CONFIRM_CREDIT_LINE_LITERAL": "Confirm credit line",
-  "NO_CREDITING_LINES" : "No crediting lines to user",
+  "NO_CREDITING_LINES": "No crediting lines to user",
   "CREDIT_LINE_CREATED_SUCCESS": "Credit line successfully created",
   "CREDIT_LINE_CREATED_FAILED": "Credit line failed to be created",
   "CREDIT_LINE_AMOUNT_LITERAL": "Credit line amount",
