@@ -12,6 +12,6 @@ jobs:
     name: Report gaps
     runs-on: ubuntu-latest
     steps:
-      - name: Check
+      name: Check
       uses: actions/setup-ruby@v1
       run: ruby actions/int_check.rb
