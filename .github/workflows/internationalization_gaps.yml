@@ -8,9 +8,10 @@ on:
       - 'internationalization/*'
 
 jobs:
-  my_job:
-    name: report gaps
+  int_check:
+    name: Report gaps
     runs-on: ubuntu-latest
     steps:
+      - name: Check
       uses: actions/setup-ruby@v1
       run: ruby actions/int_check.rb
