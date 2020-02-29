@@ -3,9 +3,9 @@ name: Check internationalization files
 on:
   push:
     branches:
-      - master
+      master
     paths:
-      - 'internationalization/*'
+      'internationalization/*'
 
 jobs:
   int_check:
@@ -13,5 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       name: Check
-      uses: actions/setup-ruby@v1
-      run: ruby actions/int_check.rb
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+      - run: ruby actions/int_check.rb
