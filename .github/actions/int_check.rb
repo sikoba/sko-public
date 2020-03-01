@@ -16,7 +16,7 @@ require 'fileutils'
 @dir_reformatted = "../../internationalization/reformatted"
 
 
-log Time.now.getutc.to_s
+# log Time.now.getutc.to_s
 
 
 ##### empty output directories
@@ -209,7 +209,7 @@ BEGIN {
 	  File.write('./_int_checks.warn.txt', @warn)
 	  log "writing to: reports/_int_checks.log.txt"
 	  log
-	  log Time.now.getutc.to_s
+#	  log Time.now.getutc.to_s
       File.write('./_int_checks.log.txt', @log)
 	end
   end
