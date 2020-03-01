@@ -96,11 +96,29 @@ hlog "3 - Check languages file contents (compare to en)"
   end
 end
 
+
 #####
 
 hlog "4 - Check 0.json content"
   
-  
+# check 0.json labels
+
+a_missing = @lang.keys - @labels.keys - ["en"]
+if a_missing != []
+  warn "Missing language(s) in 0.json: #{a_missing}"
+else
+  log "Ok, no missing language codes!"
+end
+ 
+# check languages that are in 0.json but 
+
+a_unknown = @labels.keys - @lang.keys - ["en"]
+if a_unknown != []
+  warn "Unknown language(s) in 0.json: #{a_unknown}"
+else
+  log "Ok, no unknown language codes!"
+end
+ 
   
 #####
 
@@ -165,8 +183,8 @@ BEGIN {
   
   def write_logs
     Dir.chdir("../../internationalization/reports") do
-      File.write('./int_checks.log.txt', @log)
-	  File.write('./int_checks.warn.txt', @warn)
+      File.write('./_int_checks.log.txt', @log)
+	  File.write('./_int_checks.warn.txt', @warn)
 	end
   end
   

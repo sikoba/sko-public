@@ -1,5 +1,5 @@
 
-2020-03-01 15:13:56 UTC
+2020-03-01 15:27:28 UTC
 
 ===== 1 - Read relevant JSON files
 
@@ -36,10 +36,12 @@ processing zh-Hant
 
 ===== 4 - Check 0.json content
 
+! Missing language(s) in 0.json: ["de"]
+! Unknown language(s) in 0.json: ["dee"]
 
 ===== 5 - Outputs
 
 
 ===== 5 - Write to log and exit
 
-2020-03-01 15:13:56 UTC
+2020-03-01 15:27:28 UTC
