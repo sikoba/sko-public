@@ -151,8 +151,6 @@ hlog "5 - Outputs"
 
 Dir.chdir(@dir_reports) do
 
-  FileUtils.rm_f Dir.glob("*")
-
   @report.keys.each do |iso|
     next if @report[iso] == ""
 	log "writing to reports/#{iso}.report.txt"
@@ -163,8 +161,6 @@ end
 
 
 Dir.chdir(@dir_reformatted) do
-
-  FileUtils.rm_f Dir.glob("*")
 
   log "writing to: reformatted/en.json"
   File.write('./en.json', JSON.pretty_generate(@en))
@@ -180,8 +176,6 @@ end
 #####
 
 hlog "5 - Write to log and exit"
-
-log Time.now.getutc.to_s
 
 write_logs
 
@@ -211,10 +205,12 @@ BEGIN {
   
   def write_logs
     Dir.chdir(@dir_reports) do
-	  log "writing to: reports/_int_checks.log.txt"
-      File.write('./_int_checks.log.txt', @log)
 	  log "writing to: reports/_int_checks_warn.log.txt"
 	  File.write('./_int_checks.warn.txt', @warn)
+	  log "writing to: reports/_int_checks.log.txt"
+	  log
+	  log Time.now.getutc.to_s
+      File.write('./_int_checks.log.txt', @log)
 	end
   end
   
