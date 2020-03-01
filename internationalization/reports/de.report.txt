@@ -1,0 +1,13 @@
+
+? found English text for DASHBOARD_LITERAL : Dashboard
+? found English text for STATUS_LITERAL : Status
+? found English text for PENDING : Pending
+? found English text for UNFREEZE_LITERAL : Unfreeze
+? found English text for EMAIL_LITERAL : Email
+? found English text for GLOBAL_MAX_LITERAL : Global max.
+? found English text for SINGLE_MAX_LITERAL : Single max.
+? found English text for GRANTEE_LITERAL : Grantee
+? found English text for IOUS_LITERAL : IOUs
+? found English text for DUE_LITERAL : Due
+? found English text for LATE_BY_LITERAL : Late by
+? found English text for USED_LITERAL : Used
