@@ -1,21 +1,21 @@
 
-2020-03-01 15:27:28 UTC
+2020-03-01 15:28:50 UTC
 
 ===== 1 - Read relevant JSON files
 
-reading in 0.json
-reading in de.json
-reading in en.json
-reading in es.json
-reading in fr.json
-reading in it.json
-reading in lb.json
-reading in mk.json
-reading in pl.json
-reading in pt.json
-! unknown file README.md
 reading in zh-Hans.json
 reading in zh-Hant.json
+reading in it.json
+reading in en.json
+reading in 0.json
+reading in es.json
+reading in mk.json
+reading in fr.json
+! unknown file README.md
+reading in pl.json
+reading in lb.json
+reading in de.json
+reading in pt.json
 
 ===== 2 - Check if 0.json and en.json have been read
 
@@ -23,16 +23,16 @@ ok
 
 ===== 3 - Check languages file contents (compare to en)
 
-processing de
-processing es
-processing fr
-processing it
-processing lb
-processing mk
-processing pl
-processing pt
 processing zh-Hans
 processing zh-Hant
+processing it
+processing es
+processing mk
+processing fr
+processing pl
+processing lb
+processing de
+processing pt
 
 ===== 4 - Check 0.json content
 
@@ -44,4 +44,4 @@ processing zh-Hant
 
 ===== 5 - Write to log and exit
 
-2020-03-01 15:27:28 UTC
+2020-03-01 15:28:50 UTC
