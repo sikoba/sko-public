@@ -130,6 +130,7 @@ Dir.chdir("../../internationalization/reports") do
 
   @report.keys.each do |iso|
     next if @report[iso] == ""
+	log "writing to reports/#{iso}.report.txt"
     File.write("./#{iso}.report.txt", @report[iso])
   end
 
@@ -140,10 +141,12 @@ Dir.chdir("../../internationalization/reformatted") do
 
   FileUtils.rm_f Dir.glob("*")
 
+  log "writing to: reformatted/en.json"
   File.write('./en.json', JSON.pretty_generate(@en))
 
   @report.keys.each do |iso|
-    File.write("./#{iso}.json", JSON.pretty_generate(@out[iso]))
+  log "writing to: reformatted/#{iso}.json"
+  File.write("./#{iso}.json", JSON.pretty_generate(@out[iso]))
   end
 
 end
@@ -183,7 +186,9 @@ BEGIN {
   
   def write_logs
     Dir.chdir("../../internationalization/reports") do
+	  log "writing to: reports/_int_checks.log.txt"
       File.write('./_int_checks.log.txt', @log)
+	  log "writing to: reports/_int_checks_warn.log.txt"
 	  File.write('./_int_checks.warn.txt', @warn)
 	end
   end

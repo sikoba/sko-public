@@ -1,4 +1,2 @@
 
 ! unknown file README.md
-! Missing language(s) in 0.json: ["de"]
-! Unknown language(s) in 0.json: ["dee"]

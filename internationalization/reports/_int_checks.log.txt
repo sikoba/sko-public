@@ -1,21 +1,21 @@
 
-2020-03-01 15:28:50 UTC
+2020-03-01 15:41:08 UTC
 
 ===== 1 - Read relevant JSON files
 
+reading in 0.json
+reading in de.json
+reading in en.json
+reading in es.json
+reading in fr.json
+reading in it.json
+reading in lb.json
+reading in mk.json
+reading in pl.json
+reading in pt.json
+! unknown file README.md
 reading in zh-Hans.json
 reading in zh-Hant.json
-reading in it.json
-reading in en.json
-reading in 0.json
-reading in es.json
-reading in mk.json
-reading in fr.json
-! unknown file README.md
-reading in pl.json
-reading in lb.json
-reading in de.json
-reading in pt.json
 
 ===== 2 - Check if 0.json and en.json have been read
 
@@ -23,25 +23,47 @@ ok
 
 ===== 3 - Check languages file contents (compare to en)
 
+processing de
+processing es
+processing fr
+processing it
+processing lb
+processing mk
+processing pl
+processing pt
 processing zh-Hans
 processing zh-Hant
-processing it
-processing es
-processing mk
-processing fr
-processing pl
-processing lb
-processing de
-processing pt
 
 ===== 4 - Check 0.json content
 
-! Missing language(s) in 0.json: ["de"]
-! Unknown language(s) in 0.json: ["dee"]
+Ok, no missing language codes!
+Ok, no unknown language codes!
 
 ===== 5 - Outputs
 
+writing to reports/de.report.txt
+writing to reports/es.report.txt
+writing to reports/fr.report.txt
+writing to reports/it.report.txt
+writing to reports/lb.report.txt
+writing to reports/mk.report.txt
+writing to reports/pl.report.txt
+writing to reports/pt.report.txt
+writing to reports/zh-Hans.report.txt
+writing to reports/zh-Hant.report.txt
+writing to: reformatted/en.json
+writing to: reformatted/de.json
+writing to: reformatted/es.json
+writing to: reformatted/fr.json
+writing to: reformatted/it.json
+writing to: reformatted/lb.json
+writing to: reformatted/mk.json
+writing to: reformatted/pl.json
+writing to: reformatted/pt.json
+writing to: reformatted/zh-Hans.json
+writing to: reformatted/zh-Hant.json
 
 ===== 5 - Write to log and exit
 
-2020-03-01 15:28:50 UTC
+2020-03-01 15:41:08 UTC
+writing to: reports/_int_checks.log.txt
