@@ -18,7 +18,7 @@ log Time.now.getutc.to_s
 
 hlog "1 - Read relevant JSON files"
 
-Dir.chdir("../internationalization/") do
+Dir.chdir("../../internationalization/") do
   Dir["*"].each do |f|
   
     # skip directories
@@ -106,7 +106,7 @@ hlog "4 - Check 0.json content"
 
 hlog "5 - Outputs"
 
-Dir.chdir("../internationalization/reports") do
+Dir.chdir("../../internationalization/reports") do
 
   FileUtils.rm_f Dir.glob("*")
 
@@ -118,7 +118,7 @@ Dir.chdir("../internationalization/reports") do
 end
 
 
-Dir.chdir("../internationalization/reformatted") do
+Dir.chdir("../../internationalization/reformatted") do
 
   FileUtils.rm_f Dir.glob("*")
 
@@ -164,7 +164,7 @@ BEGIN {
   end
   
   def write_logs
-    Dir.chdir("../internationalization/reports") do
+    Dir.chdir("../../internationalization/reports") do
       File.write('./int_checks.log.txt', @log)
 	  File.write('./int_checks.warn.txt', @warn)
 	end
