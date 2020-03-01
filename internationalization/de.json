@@ -7,7 +7,7 @@
   "INACTIVE": "Inaktiv",
   "FROZEN": "Eingefroren",
   "CANCELLED": "Abgebrochen",
-  "RUNNING": "Running",
+  "RUNNING": "Offen",
   "ACCEPT_LITERAL": "Akzeptieren",
   "REJECT_LITERAL": "Ablehnen",
   "CANCEL_LITERAL": "Abbrechen",
