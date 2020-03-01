@@ -14,10 +14,10 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v2
-        with:
-          ref: 'master'
+      with:
+        ref: 'master'
     - name: Test single line
-      run: echo Hello, worldd!
+      run: A test message
     - name: Load Ruby
       uses: actions/setup-ruby@v1
         with:
