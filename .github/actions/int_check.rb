@@ -11,14 +11,39 @@ require 'fileutils'
 @warn = ""
 @log = ""
 
+@dir_home = "../../internationalization"
+@dir_reports = "../../internationalization/reports"
+@dir_reformatted = "../../internationalization/reformatted"
+
 
 log Time.now.getutc.to_s
+
+
+##### empty output directories
+
+unless File.directory?(@dir_reports)
+  FileUtils.mkdir_p(@dir_reports)
+end
+
+unless File.directory?(@dir_reformatted)
+  FileUtils.mkdir_p(@dir_reformatted)
+end
+
+Dir.chdir(@dir_reports) do
+  FileUtils.rm_f Dir.glob("*")
+end
+
+
+Dir.chdir(@dir_reformatted) do
+  FileUtils.rm_f Dir.glob("*")
+end
+
 
 #####
 
 hlog "1 - Read relevant JSON files"
 
-Dir.chdir("../../internationalization/") do
+Dir.chdir(@dir_home) do
   Dir["*"].each do |f|
   
     # skip directories
@@ -124,7 +149,7 @@ end
 
 hlog "5 - Outputs"
 
-Dir.chdir("../../internationalization/reports") do
+Dir.chdir(@dir_reports) do
 
   FileUtils.rm_f Dir.glob("*")
 
@@ -137,7 +162,7 @@ Dir.chdir("../../internationalization/reports") do
 end
 
 
-Dir.chdir("../../internationalization/reformatted") do
+Dir.chdir(@dir_reformatted) do
 
   FileUtils.rm_f Dir.glob("*")
 
@@ -185,7 +210,7 @@ BEGIN {
   end
   
   def write_logs
-    Dir.chdir("../../internationalization/reports") do
+    Dir.chdir(@dir_reports) do
 	  log "writing to: reports/_int_checks.log.txt"
       File.write('./_int_checks.log.txt', @log)
 	  log "writing to: reports/_int_checks_warn.log.txt"
