@@ -1,5 +1,5 @@
 
-2020-03-01 15:28:50 UTC
+2020-03-01 15:31:55 UTC
 
 ===== 1 - Read relevant JSON files
 
@@ -36,12 +36,12 @@ processing pt
 
 ===== 4 - Check 0.json content
 
-! Missing language(s) in 0.json: ["de"]
-! Unknown language(s) in 0.json: ["dee"]
+Ok, no missing language codes!
+Ok, no unknown language codes!
 
 ===== 5 - Outputs
 
 
 ===== 5 - Write to log and exit
 
-2020-03-01 15:28:50 UTC
+2020-03-01 15:31:55 UTC
