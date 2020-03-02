@@ -1,5 +1,4 @@
 
-2020-03-01 16:07:18 UTC
 
 ===== 1 - Read relevant JSON files
 
@@ -67,5 +66,3 @@ writing to: reformatted/pt.json
 
 writing to: reports/_int_checks_warn.log.txt
 writing to: reports/_int_checks.log.txt
-
-2020-03-01 16:07:18 UTC
