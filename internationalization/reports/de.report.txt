@@ -2,12 +2,93 @@
 ? found English text for DASHBOARD_LITERAL : Dashboard
 ? found English text for STATUS_LITERAL : Status
 ? found English text for PENDING : Pending
+! added missing item CLEARED
+! added missing item SETTLED
 ? found English text for UNFREEZE_LITERAL : Unfreeze
 ? found English text for EMAIL_LITERAL : Email
+! added missing item CHECKING_CREDENTIALS_LITERAL
+! added missing item PLEASE_ENTER_YOUR_PASSWORD_LITERAL
+! added missing item WRONG_PASSWORD_LITERAL
+! added missing item DEFAULT_CURRENCY_LITERAL
+! added missing item CANCEL_CONNECTION_MESSAGE
+! added missing item CANCEL_CONNECTION_LITERAL
+! added missing item ACCEPT_CONNECTION_LITERAL
+! added missing item ACCEPT_CONNECTION_MESSAGE
+! added missing item NO_PAYMENT_OPTION_FOUND
+! added missing item CANCEL_CREDIT_LINE_MESSAGE
+! added missing item CANCEL_CREDIT_LINE_LITERAL
+! added missing item ACCEPT_CREDIT_LINE_LITERAL
+! added missing item ACCEPT_CREDIT_LINE_MESSAGE
+! added missing item CREDIT_LINE_TO_MESSAGE
+! added missing item CREDIT_LINE_FROM_MESSAGE
 ? found English text for GLOBAL_MAX_LITERAL : Global max.
 ? found English text for SINGLE_MAX_LITERAL : Single max.
 ? found English text for GRANTEE_LITERAL : Grantee
+! added missing item NEED_CREDIT_LINE
+! added missing item ALREADY_HAS_PERMIT
+! added missing item SET_UP_CONVERSION_PROFILE_DISCLAIMER
+! added missing item PERMIT_TO_CREDITOR_ERROR
+! added missing item CONFIRM_CONVERSION_PERMIT_LITERAL
+! added missing item CONVERSION_PROFILE_SET_UP_SUCCESS
+! added missing item CONVERSION_PROFILE_SET_UP_FAILED
+! added missing item CONFIRM_CONVERSION_PROFILE_LITERAL
 ? found English text for IOUS_LITERAL : IOUs
+! added missing item SETTLEMENTS_LITERAL
 ? found English text for DUE_LITERAL : Due
 ? found English text for LATE_BY_LITERAL : Late by
+! added missing item CONFIRM_PARTIAL_SETTLEMENT_LITERAL
+! added missing item PARTIAL_SETTLEMENT_CONFIRMED_LITERAL
+! added missing item SETTLE_TODAY_AT
+! added missing item FULL_SETTLE_MESSAGE
 ? found English text for USED_LITERAL : Used
+! added missing item UNDERSTOOD_LITERAL
+! added missing item HOW_MUCH_REQUEST
+! added missing item REQUEST_PAYMENT_LITERAL
+! added missing item ENTER_CODE_LITERAL
+! added missing item SUBMIT_LITERAL
+! added missing item SAME_USER
+! added missing item PROPOSED_CONDITIONS_LITERAL
+! added missing item CODE_SENT_TO_LITERAL
+! added missing item SKIP_LITERAL
+! added missing item CONTINUE_LITERAL
+! added missing item NO_CURRENCIES_AVAILABLE_LITERAL
+! added missing item VERIFICATION_SUCCESSFUL
+! added missing item NOT_VERIFIED_LITERAL
+! added missing item CLICK_TO_VERIFY_LITERAL
+! added missing item WRONG_VERIFICATION_CODE_LITERAL
+! added missing item PHONE_NUMBER_LITERAL
+! added missing item VERIFY_PHONE_NUMBER_TITLE
+! added missing item VERIFY_PHONE_NUMBER_MESSAGE
+! added missing item VERIFYING_PHONE_NUMBER_LITERAL
+! added missing item CHANGE_PHONE_NUMBER_LITERAL
+! added missing item CHANGE_PHONE_NUMBER_DISCLAIMER
+! added missing item ENTER_NEW_PHONE_NUMBER
+! added missing item NEW_PHONE_NUMBER_LITERAL
+! added missing item CHANGE_PHONE_NUMBER_VERIFICATION
+! added missing item CONFIRM_PHONE_NUMBER_CHANGE_LITERAL
+! added missing item PHONE_NUMBER_CHANGED_SUCCESS
+! added missing item CHANGE_PASSWORD_LITERAL
+! added missing item CHANGE_PASSWORD_DISCLAIMER
+! added missing item NEW_PASSWORD_LITERAL
+! added missing item REPEAT_PASSWORD_LITERAL
+! added missing item ENTER_YOUR_NEW_PASSWORD_LITERAL
+! added missing item PASSWORD_CHANGED_SUCCESS
+! added missing item UPDATING_PASSWORD_LITERAL
+! added missing item PASSWORDS_MUST_MATCH
+! added missing item SHOW_QR_LITERAL
+! added missing item HIDE_QR_LITERAL
+! added missing item QR_CODE_LITERAL
+! added missing item SHOW_QR_TO_USER
+! added missing item DISMISS_LITERAL
+! added missing item RECEIVED_CONNECTION_NOTIFICATION_TITLE
+! added missing item ACCEPTED_CONNECTION_NOTIFICATION_TITLE
+! added missing item CANCELLED_CONNECTION_NOTIFICATION_TITLE
+! added missing item RECEIVED_CREDIT_LINE_NOTIFICATION_TITLE
+! added missing item ACCEPTED_CREDIT_LINE_NOTIFICATION_TITLE
+! added missing item REJECTED_CREDIT_LINE_NOTIFICATION_TITLE
+! added missing item FROZEN_CREDIT_LINE_NOTIFICATION_TITLE
+! added missing item UNFROZEN_CREDIT_LINE_NOTIFICATION_TITLE
+! added missing item RECEIVED_PAYMENT_NOTIFICATION_TITLE
+! added missing item IOU_FULL_SETTLE_NOTIFICATION_TITLE
+! added missing item IOU_PARTIAL_SETTLE_NOTIFICATION_TITLE
+! added missing item IOU_CLEARED_NOTIFICATION_TITLE
