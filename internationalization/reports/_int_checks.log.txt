@@ -2,6 +2,7 @@
 
 ===== 1 - Read relevant JSON files
 
+reading in ms.json
 reading in it.json
 reading in de.json
 reading in fr.json
@@ -22,6 +23,7 @@ ok
 
 ===== 3 - Check languages file contents (compare to en)
 
+processing ms
 processing it
 processing de
 processing fr
@@ -40,6 +42,7 @@ Ok, no unknown language codes!
 
 ===== 5 - Outputs
 
+writing to reports/ms.report.txt
 writing to reports/it.report.txt
 writing to reports/de.report.txt
 writing to reports/fr.report.txt
@@ -51,6 +54,7 @@ writing to reports/pl.report.txt
 writing to reports/es.report.txt
 writing to reports/mk.report.txt
 writing to: reformatted/en.json
+writing to: reformatted/ms.json
 writing to: reformatted/it.json
 writing to: reformatted/de.json
 writing to: reformatted/fr.json
