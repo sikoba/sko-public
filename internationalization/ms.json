@@ -7,8 +7,8 @@
   "PENDING": "Pending",
   "INACTIVE": "Tidak Aktif",
   "FROZEN": "Telah Dibekukan",
-  "CANCELLED": "Di Batalkan",
-  "RUNNING": "Running",
+  "CANCELLED": "Dibatalkan",
+  "RUNNING": "Sedang diproses",
   "CLEARED": "Dipadamkan",
   "SETTLED": "Telah Selesai",
   
