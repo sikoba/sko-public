@@ -10,5 +10,6 @@
 	"pl": ["Polish","Polski"],
 	"pt": ["Portuguese", "Português"],
 	"zh-Hans": ["Chinese Simplified","中文(简体)"],
-	"zh-Hant": ["Chinese Traditional","中文(繁體)"]
+	"zh-Hant": ["Chinese Traditional","中文(繁體)"],
+	"sr": ["Serbian", "Српски"]
 }
