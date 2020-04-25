@@ -17,6 +17,7 @@ reading in en.json
 reading in pl.json
 reading in es.json
 reading in mk.json
+reading in sr.json
 
 ===== 2 - Check if 0.json and en.json have been read
 
@@ -34,6 +35,7 @@ processing zh-Hant
 processing pl
 processing es
 processing mk
+processing sr
 
 ===== 4 - Check 0.json content
 
@@ -52,6 +54,7 @@ writing to reports/zh-Hant.report.txt
 writing to reports/pl.report.txt
 writing to reports/es.report.txt
 writing to reports/mk.report.txt
+writing to reports/sr.report.txt
 writing to: reformatted/en.json
 writing to: reformatted/ms.json
 writing to: reformatted/it.json
@@ -63,6 +66,7 @@ writing to: reformatted/zh-Hant.json
 writing to: reformatted/pl.json
 writing to: reformatted/es.json
 writing to: reformatted/mk.json
+writing to: reformatted/sr.json
 
 ===== 5 - Write to log and exit
 
