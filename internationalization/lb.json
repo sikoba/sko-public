@@ -21,12 +21,12 @@
   "USERNAME_LITERAL": "Benotzernumm",
   "PASSWORD_LITERAL": "Passwuert",
   "EMAIL_LITERAL": "Email",
-  "DISPLAY_NAME_LITERAL": "Numm uweisen", /Numm vum Bildschirm?
-  "USER_DATA_LITERAL": "Notzerdaten / ",
+  "DISPLAY_NAME_LITERAL": "Numm uweisen"
+  "USER_DATA_LITERAL": "Notzerdaten",
  
  "CURRENCY_LITERAL": "Währung",
   "PREFERRED_PAYMENT_TARGET_LITERAL": "Preferéiert Zuelungszil",
-  "CLEARING_FLEXIBILITY_LITERAL": "Ausgläichsflexibilitéit / Flexibilitéit ausgläichen",
+  "CLEARING_FLEXIBILITY_LITERAL": "Ausgläichsflexibilitéit",
   "ENTER_USERNAME_EMAIL": "Benotzernumm aginn, E-Mail ...",
   "USER_NOT_FOUND_LITERAL": "Benotzer net fonnt",
   "USER_FOUND_LITERAL": "Benotzer fonnt!",
@@ -66,7 +66,7 @@
   
   "IOUS_LITERAL": "IOUs / Meng Scholden",
   "NO_IOUS_LITERAL": "Keng IOUs / Keng Scholden",
-  "NEXT_SETTLEMENTS_LITERAL": "Nächst Kontos -Ausgläichungen / -Berengegungen / -Ofgläicher",
+  "NEXT_SETTLEMENTS_LITERAL": "Nächst Kontos-Berengegungen",
   
   "SETTINGS_LOADING_ERROR": "Feeler beim Luede vun den Astellungen",
   "APP_LANGUAGE_LITERAL": "App-Sprooch",
@@ -74,7 +74,7 @@
   "RETRY_LITERAL": "nach enker probéieren",
   "FAILURE_VIEW_TITLE": "Eppes ass schief gaangen.",
   "FAILURE_VIEW_LABEL": "Verstanen",
-  "FAILURE_VIEW_HELPER": "Probéiert wannechgelift an e puer Minutten nach enker. ",
+  "FAILURE_VIEW_HELPER": "Probéiert wannechgelift an e puer Minutten nach enker.",
 
   "RECEIVER_LITERAL": "Empfänger",
   "FROM_LITERAL": "vun",
@@ -82,7 +82,7 @@
   "USED_LITERAL": "benotzt",
   "AVAILABLE_LITERAL": "Verfügbar",
   "UP_TO_LITERAL": "Bis zu",
-  "ENTER_LITERAL": "Enter / Aginn",
+  "ENTER_LITERAL": "Enter",
   "NEXT_LITERAL": "Weider",
   "CONFIRM_LITERAL": "Bestätegen",
   "DAYS_LITERAL": "Deeg",
