@@ -1,4 +1,2 @@
 
 ! unknown file README.md
-! Failed to parse JSON: lb.json
-! Unknown language(s) in 0.json: ["lb"]
