@@ -154,7 +154,7 @@
   "CANT_EXCEED_IOU_AMOUNT": "Не може да пређе укупни износ IOUа",
   "CONFIRM_SETTLEMENT_LITERAL": "Потврдите нагодбу",
   "CONFIRM_PARTIAL_SETTLEMENT_LITERAL": "Потврдите дјеломичну нагодбу",
-  "IOU_AMOUNT_LITERAL": " Износ IOUа",
+  "IOU_AMOUNT_LITERAL": "Износ IOUа",
   "SETTLE_AMOUNT_LITERAL": "Износ за нагодбу",
   "SETTLEMENT_CONFIRMED_LITERAL": "Нагодба је успешна",
   "PARTIAL_SETTLEMENT_CONFIRMED_LITERAL": "Дјеломична нагодба је успјешна",
@@ -241,5 +241,9 @@
   "IOU_CLEARED_NOTIFICATION_TITLE": "Систем је очистио IOU.",
   "REVIEW_BEFORE_CONFIRMATION_LITERAL": "Прегледајте пре потврде",
   "PROCESSING_YOUR_REQUEST_LITERAL": "Обрађује се ваш захтев",
-  "PROCESSING_SETTLEMENT_LITERAL": "Обрада нагодбе"
+  "PROCESSING_SETTLEMENT_LITERAL": "Обрада нагодбе",
+  "ONE_TIME_FEE_LIMIT_LITERAL": "Лимит једнократне накнаде",
+  "INTEREST_LIMIT_LITERAL": "Лимит за камате",
+  "CONVERSION_FEE_LIMIT_LITERAL": "Лимит накнаде за конверзију",
+  "YESTERDAY": "Јуче"
 }

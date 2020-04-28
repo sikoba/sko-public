@@ -9,3 +9,7 @@
 ? found English text for AVAILABLE_LITERAL : Available
 ? found English text for TOTAL_LITERAL : Total
 ! found empty item CHANGE_PASSWORD_DISCLAIMER
+! found empty item ONE_TIME_FEE_LIMIT_LITERAL
+! found empty item INTEREST_LIMIT_LITERAL
+! found empty item CONVERSION_FEE_LIMIT_LITERAL
+! found empty item YESTERDAY

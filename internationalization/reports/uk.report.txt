@@ -1,6 +1,5 @@
 
-? found English text for PASSWORD_LITERAL : Password
-? found English text for LOGOUT_LITERAL : Logout
+? found English text for IOUS_LITERAL : IOUs
 ! found empty item ONE_TIME_FEE_LIMIT_LITERAL
 ! found empty item INTEREST_LIMIT_LITERAL
 ! found empty item CONVERSION_FEE_LIMIT_LITERAL

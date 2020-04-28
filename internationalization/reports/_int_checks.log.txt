@@ -4,11 +4,13 @@
 
 reading in ms.json
 reading in it.json
+reading in ru.json
 reading in de.json
 reading in fr.json
 ! unknown file README.md
 reading in zh-Hans.json
 reading in pt.json
+reading in uk.json
 reading in zh-Hant.json
 reading in lb.json
 reading in 0.json
@@ -26,10 +28,12 @@ ok
 
 processing ms
 processing it
+processing ru
 processing de
 processing fr
 processing zh-Hans
 processing pt
+processing uk
 processing zh-Hant
 processing lb
 processing pl
@@ -39,17 +43,19 @@ processing sr
 
 ===== 4 - Check 0.json content
 
-Ok, no missing language codes!
+! Missing language(s) in 0.json: ["ru", "uk"]
 Ok, no unknown language codes!
 
 ===== 5 - Outputs
 
 writing to reports/ms.report.txt
 writing to reports/it.report.txt
+writing to reports/ru.report.txt
 writing to reports/de.report.txt
 writing to reports/fr.report.txt
 writing to reports/zh-Hans.report.txt
 writing to reports/pt.report.txt
+writing to reports/uk.report.txt
 writing to reports/zh-Hant.report.txt
 writing to reports/lb.report.txt
 writing to reports/pl.report.txt
@@ -59,10 +65,12 @@ writing to reports/sr.report.txt
 writing to: reformatted/en.json
 writing to: reformatted/ms.json
 writing to: reformatted/it.json
+writing to: reformatted/ru.json
 writing to: reformatted/de.json
 writing to: reformatted/fr.json
 writing to: reformatted/zh-Hans.json
 writing to: reformatted/pt.json
+writing to: reformatted/uk.json
 writing to: reformatted/zh-Hant.json
 writing to: reformatted/lb.json
 writing to: reformatted/pl.json
