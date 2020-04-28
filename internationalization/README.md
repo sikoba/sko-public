@@ -1,5 +1,7 @@
 # internationalization
 
-This part of the repo contains the internationalization files of SikobaPay. See this [Medium article](https://medium.com/sikoba-network/multi-language-sikobapay-40900a8c4443) for more information.
+This part of the repo contains the internationalization files of SikobaPay.
 
-After editing a JSON file, you can use a JSON validator such as [https://jsonlint.com/](https://jsonlint.com/) to verify that your file is well-formatted.
+To contribute, please request access to the following [Google sheets](https://docs.google.com/spreadsheets/d/1wBlILixCgDnnupcYkLJ7ClIWgw6w4EXxR9sbmCO0Kw8) document.
+
+The procedure described in this [Medium article](https://medium.com/sikoba-network/multi-language-sikobapay-40900a8c4443) is now deprecated.

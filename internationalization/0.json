@@ -9,7 +9,7 @@
 	"mk": ["Macedonian","македонски"],
 	"pl": ["Polish","Polski"],
 	"pt": ["Portuguese", "Português"],
+	"sr": ["Serbian", "Српски"],
 	"zh-Hans": ["Chinese Simplified","中文(简体)"],
-	"zh-Hant": ["Chinese Traditional","中文(繁體)"],
-	"sr": ["Serbian", "Српски"]
+	"zh-Hant": ["Chinese Traditional","中文(繁體)"]
 }

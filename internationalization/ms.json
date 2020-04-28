@@ -241,5 +241,9 @@
   "IOU_CLEARED_NOTIFICATION_TITLE": "IOU telah dihapuskan oleh sistem.",
   "REVIEW_BEFORE_CONFIRMATION_LITERAL": "Semak sebelum pengesahan",
   "PROCESSING_YOUR_REQUEST_LITERAL": "Sedang memproses permintaan anda",
-  "PROCESSING_SETTLEMENT_LITERAL": "Sedang memproses pembayaran"
+  "PROCESSING_SETTLEMENT_LITERAL": "Sedang memproses pembayaran",
+  "ONE_TIME_FEE_LIMIT_LITERAL": "",
+  "INTEREST_LIMIT_LITERAL": "",
+  "CONVERSION_FEE_LIMIT_LITERAL": "",
+  "YESTERDAY": ""
 }
