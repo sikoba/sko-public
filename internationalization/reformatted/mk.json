@@ -245,5 +245,8 @@
   "ONE_TIME_FEE_LIMIT_LITERAL": "Лимит на еднократна такса",
   "INTEREST_LIMIT_LITERAL": "Лимит на каматна стапка",
   "CONVERSION_FEE_LIMIT_LITERAL": "Лимит на такса за конверзија",
-  "YESTERDAY": "Вчера"
+  "YESTERDAY": "Вчера",
+  "CONTEXTS_LITERAL": "Контексти",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Не можете да откажете конекција која има кредитни линии со активни долгови.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Не можете да откажете кредитна линија со активни долгови."
 }

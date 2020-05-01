@@ -110,9 +110,9 @@
   "ON_CREDIT_LINE_TO": "En la línea de crédito para",
   "SET_UP_CONVERSION_PROFILE_LITERAL": "Establecer el perfil de conversión",
   "CONVERSION_PERMIT_GRANTED_SUCCESS": "Permiso de conversión concedido con éxito.",
-  "CONVERSION_PERMIT_GRANTED_FAILED": "La concesión del permiso de conversión fracasó.",
+  "CONVERSION_PERMIT_GRANTED_FAILED": "La concesión del permiso de conversión falló.",
   "REVOKE_LITERAL": "Revocar",
-  "REVOKING_PERMIT_LITERAL": "Permiso de revocación",
+  "REVOKING_PERMIT_LITERAL": "Revocando permiso",
   "NEED_CREDIT_LINE": "Necesitará una línea de crédito para pagar, debido a que no tiene conexiones en común para la conversión de crédito.",
   "ALREADY_HAS_PERMIT": "El permiso ya ha sido concedido a ese usuario.",
   "SET_UP_CONVERSION_PROFILE_DISCLAIMER": "Antes de conceder un permiso, primero debe configurar el perfil de conversión para la línea de crédito.",
@@ -164,7 +164,7 @@
   "SETTINGS_LOADING_ERROR": "Error al cargar la configuración",
   "APP_LANGUAGE_LITERAL": "Idioma de la aplicación",
   "RETRY_LITERAL": "Reintentar",
-  "FAILURE_VIEW_TITLE": "Algo salió mal",
+  "FAILURE_VIEW_TITLE": "Se ha producido un error inexplicable",
   "FAILURE_VIEW_LABEL": "Entendido",
   "FAILURE_VIEW_HELPER": "Pruebe de nuevo en unos minutos",
   "USER_LITERAL": "Usuario",
@@ -245,5 +245,8 @@
   "ONE_TIME_FEE_LIMIT_LITERAL": "Límite de tarifa única",
   "INTEREST_LIMIT_LITERAL": "Límite de la tasa de interés",
   "CONVERSION_FEE_LIMIT_LITERAL": "Límite de la tasa de conversión",
-  "YESTERDAY": "Ayer"
+  "YESTERDAY": "Ayer",
+  "CONTEXTS_LITERAL": "Contextos",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "No se puede cancelar una conexión que tiene líneas de crédito con pagarés activos.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "No se puede cancelar una línea de crédito con pagarés activos."
 }

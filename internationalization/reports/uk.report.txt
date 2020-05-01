@@ -1,6 +1,2 @@
 
-? found English text for IOUS_LITERAL : IOUs
-! found empty item ONE_TIME_FEE_LIMIT_LITERAL
-! found empty item INTEREST_LIMIT_LITERAL
-! found empty item CONVERSION_FEE_LIMIT_LITERAL
-! found empty item YESTERDAY
+? found English text for EMAIL_LITERAL : Email

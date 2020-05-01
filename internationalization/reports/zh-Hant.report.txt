@@ -49,3 +49,6 @@
 ! found empty item INTEREST_LIMIT_LITERAL
 ! found empty item CONVERSION_FEE_LIMIT_LITERAL
 ! found empty item YESTERDAY
+! found empty item CONTEXTS_LITERAL
+! found empty item CANNOT_CANCEL_CONNECTION_IOUS
+! found empty item CANNOT_CANCEL_CREDIT_LINE_IOUS

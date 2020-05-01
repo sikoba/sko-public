@@ -16,6 +16,7 @@ reading in lb.json
 reading in 0.json
 reading in en.json
 reading in pl.json
+reading in tl.json
 reading in es.json
 reading in mk.json
 reading in sr.json
@@ -37,13 +38,14 @@ processing uk
 processing zh-Hant
 processing lb
 processing pl
+processing tl
 processing es
 processing mk
 processing sr
 
 ===== 4 - Check 0.json content
 
-! Missing language(s) in 0.json: ["ru", "uk"]
+Ok, no missing language codes!
 Ok, no unknown language codes!
 
 ===== 5 - Outputs
@@ -59,6 +61,7 @@ writing to reports/uk.report.txt
 writing to reports/zh-Hant.report.txt
 writing to reports/lb.report.txt
 writing to reports/pl.report.txt
+writing to reports/tl.report.txt
 writing to reports/es.report.txt
 writing to reports/mk.report.txt
 writing to reports/sr.report.txt
@@ -74,6 +77,7 @@ writing to: reformatted/uk.json
 writing to: reformatted/zh-Hant.json
 writing to: reformatted/lb.json
 writing to: reformatted/pl.json
+writing to: reformatted/tl.json
 writing to: reformatted/es.json
 writing to: reformatted/mk.json
 writing to: reformatted/sr.json

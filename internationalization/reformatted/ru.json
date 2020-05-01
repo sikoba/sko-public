@@ -190,7 +190,7 @@
   "HOW_MUCH_REQUEST": "Сколько вы хотите запросить?",
   "REQUEST_PAYMENT_LITERAL": "Запросить оплату",
   "ENTER_CODE_LITERAL": "Введите код",
-  "SUBMIT_LITERAL": "Отправить .",
+  "SUBMIT_LITERAL": "Отправить.",
   "SAME_USER": "Невозможно выбрать самого себя!",
   "PROPOSED_CONDITIONS_LITERAL": "Предлагаемые условия",
   "CODE_SENT_TO_LITERAL": "Код отправлен",
@@ -245,5 +245,8 @@
   "ONE_TIME_FEE_LIMIT_LITERAL": "Лимит одноразовой комиссии",
   "INTEREST_LIMIT_LITERAL": "Процентный лимит",
   "CONVERSION_FEE_LIMIT_LITERAL": "Лимит платы за конвертацию",
-  "YESTERDAY": "Вчера"
+  "YESTERDAY": "Вчера",
+  "CONTEXTS_LITERAL": "Контексты",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Не может отменить соединение, у которого есть кредитные линии с активными IOU.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Не может отменить кредитную линию с активными IOU."
 }
