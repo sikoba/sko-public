@@ -9,7 +9,10 @@
 	"mk": ["Macedonian","македонски"],
 	"pl": ["Polish","Polski"],
 	"pt": ["Portuguese", "Português"],
+	"ru": ["Russian", "русский"],
 	"sr": ["Serbian", "Српски"],
+	"tl": ["Tagalog", "Wikang Tagalog"],
+	"uk", ["Ukrainian", "Українська"],
 	"zh-Hans": ["Chinese Simplified","中文(简体)"],
 	"zh-Hant": ["Chinese Traditional","中文(繁體)"]
 }
