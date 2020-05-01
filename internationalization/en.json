@@ -245,5 +245,8 @@
   "ONE_TIME_FEE_LIMIT_LITERAL": "One-time fee limit",
   "INTEREST_LIMIT_LITERAL": "Interest limit",
   "CONVERSION_FEE_LIMIT_LITERAL": "Conversion fee limit",
-  "YESTERDAY": "Yesterday"
+  "YESTERDAY": "Yesterday",
+  "CONTEXTS_LITERAL": "Contexts",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Cannot cancel a connection that has credit lines with active IOUs.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Cannot cancel a credit line with active IOUs."
 }

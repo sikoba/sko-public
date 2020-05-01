@@ -245,5 +245,8 @@
   "ONE_TIME_FEE_LIMIT_LITERAL": "Frais initiaux maximum",
   "INTEREST_LIMIT_LITERAL": "Taux d'intérêt maximal",
   "CONVERSION_FEE_LIMIT_LITERAL": "Frais de conversion maximum",
-  "YESTERDAY": "Hier"
+  "YESTERDAY": "Hier",
+  "CONTEXTS_LITERAL": "Contextes",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Impossible d'annuler une connexion avec des lignes de crédit actuellement utilsées.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Impossible d'annuler une ligne de crédit actuellement utilsée."
 }

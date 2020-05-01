@@ -124,7 +124,7 @@
   "IOUS_LITERAL": "Schuldscheine",
   "NO_IOUS_LITERAL": "Keine Schuldscheine",
   "SETTLEMENTS_LITERAL": "Zahlungen/Abrechnungen",
-  "NEXT_SETTLEMENTS_LITERAL": "Nächste Zahlungsterime",
+  "NEXT_SETTLEMENTS_LITERAL": "Nächste Zahlungstermine",
   "NO_SETTLEMENTS_LITERAL": "Keine Zahlungsterime",
   "BASE_AMOUNT_LITERAL": "Grundbetrag",
   "FEES_LITERAL": "Gebühren",
@@ -245,5 +245,8 @@
   "ONE_TIME_FEE_LIMIT_LITERAL": "Maximale einmalige Gebühr",
   "INTEREST_LIMIT_LITERAL": "Maximaler Zinssatz",
   "CONVERSION_FEE_LIMIT_LITERAL": "Maximale Kreditumwandlungsgebühr",
-  "YESTERDAY": "Gestern"
+  "YESTERDAY": "Gestern",
+  "CONTEXTS_LITERAL": "Kontexte",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Eine Verbindung mit Kreditlinien, die zZt benutzt werden, kann nicht storniert werden.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Eine Kreditlinie, die zZt benutzt wird, kann nicht storniert werden."
 }
