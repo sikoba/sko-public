@@ -89,7 +89,7 @@
   "CANCEL_CREDIT_LINE_LITERAL": "Ikansela ang linya ng kredito",
   "ACCEPT_CREDIT_LINE_LITERAL": "Tanggapin ang linya ng kredito",
   "ACCEPT_CREDIT_LINE_MESSAGE": "Tanggapin ang ng linya ng kredito",
-  "CREDIT_LINE_TO_MESSAGE": "Linya ng kredito sa ",
+  "CREDIT_LINE_TO_MESSAGE": "Linya ng kredito sa",
   "CREDIT_LINE_FROM_MESSAGE": "Linya ng kredito galing sa",
   "CONVERSION_LITERAL": "Kombersyon",
   "FOR_CONVERSION_LITERAL": "Para sa kombersyon",
@@ -247,6 +247,6 @@
   "CONVERSION_FEE_LIMIT_LITERAL": "Limitasyon sa bayad ng kombersyon",
   "YESTERDAY": "Kahapon",
   "CONTEXTS_LITERAL": "Konteksto",
-  "CANNOT_CANCEL_CONNECTION_IOUS": "indi maikansela ang koneksyon IOUs",
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Hindi maikansela ang koneksyon IOUs",
   "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Hindi maikansela ang linya ng kredito IOUs"
 }
