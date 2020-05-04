@@ -237,7 +237,7 @@
   "UNFROZEN_CREDIT_LINE_NOTIFICATION_TITLE": "batal pembekuan line kredit",
   "RECEIVED_PAYMENT_NOTIFICATION_TITLE": "pembayaran diterima dari",
   "IOU_FULL_SETTLE_NOTIFICATION_TITLE": "telah menyelesaikan untuk anda",
-  "IOU_PARTIAL_SETTLE_NOTIFICATION_TITLE": "telah menyelesaikan untuk anda",
+  "IOU_PARTIAL_SETTLE_NOTIFICATION_TITLE": "telah menyelesaikan sebahagian untuk anda",
   "IOU_CLEARED_NOTIFICATION_TITLE": "IOU telah dihapuskan oleh sistem.",
   "REVIEW_BEFORE_CONFIRMATION_LITERAL": "Semak sebelum pengesahan",
   "PROCESSING_YOUR_REQUEST_LITERAL": "Sedang memproses permintaan anda",
