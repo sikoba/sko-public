@@ -1,14 +1,5 @@
 
-? found English text for STATUS_LITERAL : Status
 ? found English text for PENDING : Pending
-? found English text for FROZEN : Frozen
-? found English text for FREEZE_LITERAL : Freeze
-? found English text for UNFREEZE_LITERAL : Unfreeze
-? found English text for USERNAME_LITERAL : Username
 ? found English text for PASSWORD_LITERAL : Password
-? found English text for DISPLAY_NAME_LITERAL : Display name
-? found English text for USER_DATA_LITERAL : User data
 ? found English text for IOUS_LITERAL : IOUs
 ? found English text for USER_LITERAL : User
-? found English text for AVAILABLE_LITERAL : Available
-? found English text for QR_CODE_LITERAL : QR code
