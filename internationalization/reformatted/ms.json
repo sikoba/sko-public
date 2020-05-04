@@ -247,6 +247,6 @@
   "CONVERSION_FEE_LIMIT_LITERAL": "Caj Penukaran (had)",
   "YESTERDAY": "Semalam",
   "CONTEXTS_LITERAL": "Konteks",
-  "CANNOT_CANCEL_CONNECTION_IOUS": "Tidak dapat membatalkan sambungan yang mempunyai garis kredit dengan IOU aktif.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Cannot cancel a credit line with active IOUs."
+  "CANNOT_CANCEL_CONNECTION_IOUS": "Tidak dapat membatalkan koneksi yang mempunyai line kredit dengan IOU aktif.",
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Tidak dapat membatalkan line kredit dengan IOU aktif."
 }

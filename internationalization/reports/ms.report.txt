@@ -8,4 +8,3 @@
 ? found English text for DUE_LITERAL : Due
 ? found English text for AVAILABLE_LITERAL : Available
 ? found English text for TOTAL_LITERAL : Total
-? found English text for CANNOT_CANCEL_CREDIT_LINE_IOUS : Cannot cancel a credit line with active IOUs.
