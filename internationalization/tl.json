@@ -248,5 +248,17 @@
   "YESTERDAY": "Kahapon",
   "CONTEXTS_LITERAL": "Konteksto",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Hindi maikansela ang koneksyon IOUs",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Hindi maikansela ang linya ng kredito IOUs"
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Hindi maikansela ang linya ng kredito IOUs",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Kumpirma ang pagrehistro ng isang bagong aparato",
+  "ADD_DEVICE_FOR_LITERAL": "Magdagdag ng aparato para sa",
+  "REGISTER_DEVICE_SUCCESS": "Matagumpay na nakarehistro ang aparato",
+  "DEREGISTER_DEVICE_LITERAL": "Ikansela ang pagrehistro ng aparato",
+  "DEREGISTER_DEVICE_MESSAGE": "Sigurado ka bang nais mong ikansela ang pagrehistro ng iyong aparato? Hindi ka makakapag-login sa aparatong ito hanggang sa muling magrehistro nito.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Maaari ka lamang magrehistro ng mga aparato para sa iyong sarili",
+  "UNKNOWN_DEVICE_LITERAL": "Hindi kilalang aparato",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Nais mo bang irehistro ang aparatong ito para sa sikobaPay? Kailangan mo ng isang rehistradong aparato.",
+  "REGISTER_LITERAL": "Rehistro",
+  "REGISTER_DEVICE_LITERAL": "Magrehistro ng aparato",
+  "SCAN_WITH_REGISTERED_DEVICE": "I-scan ang QR code sa ibaba kasama ang isa sa iyong mga rehistradong aparato.",
+  "DONE_LITERAL": "Tapos"
 }

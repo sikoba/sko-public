@@ -215,7 +215,7 @@
   "CONFIRM_PHONE_NUMBER_CHANGE_LITERAL": "Потврдите промену телефонског броја",
   "PHONE_NUMBER_CHANGED_SUCCESS": "Телефонски број успешно је ажуриран",
   "CHANGE_PASSWORD_LITERAL": "Промени лозинку",
-  "CHANGE_PASSWORD_DISCLAIMER": "",
+  "CHANGE_PASSWORD_DISCLAIMER": "Да бисте променили лозинку, добићете код на ваш телефонски број који треба да наведете заједно са новом лозинком. Унесите своје корисничко име да бисте добили код:",
   "NEW_PASSWORD_LITERAL": "Нова лозинка",
   "REPEAT_PASSWORD_LITERAL": "Поновите лозинку",
   "ENTER_YOUR_NEW_PASSWORD_LITERAL": "Унесите нову лозинку",
@@ -248,5 +248,17 @@
   "YESTERDAY": "Јуче",
   "CONTEXTS_LITERAL": "Контексти",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Не можете отказати везу са кредитним линијама које имају активне дугове.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Није могуће отказати кредитну линију са активним дуговима."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Није могуће отказати кредитну линију са активним дуговима.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Потврдите регистрацију новог уређаја",
+  "ADD_DEVICE_FOR_LITERAL": "Региструјте уређај за",
+  "REGISTER_DEVICE_SUCCESS": "Уређај је успешно регистрован",
+  "DEREGISTER_DEVICE_LITERAL": "Дерегистрирајте уређај",
+  "DEREGISTER_DEVICE_MESSAGE": "Јесте ли сигурни да желите да одјавите свој уређај? Нећете моћи да се пријавите на овај уређај док га поново не региструјете.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Уређаје можете регистровати само за себе",
+  "UNKNOWN_DEVICE_LITERAL": "Непознати уређај",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Да ли желите да региструјете овај уређај за sikobaPay? Требаће вам регистровани уређај.",
+  "REGISTER_LITERAL": "Регистровати",
+  "REGISTER_DEVICE_LITERAL": "Региструјте уређај",
+  "SCAN_WITH_REGISTERED_DEVICE": "Скенирајте QR код регистрованим уређајем.",
+  "DONE_LITERAL": "Готово"
 }

@@ -248,5 +248,17 @@
   "YESTERDAY": "Вчера",
   "CONTEXTS_LITERAL": "Контексти",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Не можете да откажете конекција која има кредитни линии со активни долгови.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Не можете да откажете кредитна линија со активни долгови."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Не можете да откажете кредитна линија со активни долгови.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Потврдете регистрација на нов уред",
+  "ADD_DEVICE_FOR_LITERAL": "Регистрирај уред за",
+  "REGISTER_DEVICE_SUCCESS": "Уредот е успешно регистриран",
+  "DEREGISTER_DEVICE_LITERAL": "Дерегистрирај уред",
+  "DEREGISTER_DEVICE_MESSAGE": "Дали сте сигурни дека сакате да го отстраните уредот? Нема да можете да се најавите додека повторно не го регистрирате.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Можете да регистрирате уреди само на ваше име.",
+  "UNKNOWN_DEVICE_LITERAL": "Непознат уред.",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Дали сакате да го регистрирате овој уред за sikobaPay најава? Ќе ви треба веќе регистриран уред.",
+  "REGISTER_LITERAL": "Регистрирација",
+  "REGISTER_DEVICE_LITERAL": "Регистрирај уред",
+  "SCAN_WITH_REGISTERED_DEVICE": "Скенирај го QR кодот подолу со еден од вашите регистрирани уреди.",
+  "DONE_LITERAL": "Готово"
 }
