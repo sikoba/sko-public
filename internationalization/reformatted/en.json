@@ -248,5 +248,17 @@
   "YESTERDAY": "Yesterday",
   "CONTEXTS_LITERAL": "Contexts",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Cannot cancel a connection that has credit lines with active IOUs.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Cannot cancel a credit line with active IOUs."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Cannot cancel a credit line with active IOUs.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Confirm registering a new device",
+  "ADD_DEVICE_FOR_LITERAL": "Add device for",
+  "REGISTER_DEVICE_SUCCESS": "Device successfully registered",
+  "DEREGISTER_DEVICE_LITERAL": "De-register device",
+  "DEREGISTER_DEVICE_MESSAGE": "Are you sure you want to de-register your device? You will not be able to login on this device until you register it again.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "You can only register devices for yourself",
+  "UNKNOWN_DEVICE_LITERAL": "Unknown device",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Do you want to register this device for sikobaPay? You will need a registered device.",
+  "REGISTER_LITERAL": "Register",
+  "REGISTER_DEVICE_LITERAL": "Register device",
+  "SCAN_WITH_REGISTERED_DEVICE": "Scan the QR code below with one of your registered devices.",
+  "DONE_LITERAL": "Done"
 }

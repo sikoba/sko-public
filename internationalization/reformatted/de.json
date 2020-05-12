@@ -248,5 +248,17 @@
   "YESTERDAY": "Gestern",
   "CONTEXTS_LITERAL": "Kontexte",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Eine Verbindung mit Kreditlinien, die zZt benutzt werden, kann nicht storniert werden.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Eine Kreditlinie, die zZt benutzt wird, kann nicht storniert werden."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Eine Kreditlinie, die zZt benutzt wird, kann nicht storniert werden.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Bestätigen Sie die Registrierung eines neuen Geräts",
+  "ADD_DEVICE_FOR_LITERAL": "Gerät hinzufügen für",
+  "REGISTER_DEVICE_SUCCESS": "Gerät erfolgreich registriert",
+  "DEREGISTER_DEVICE_LITERAL": "Gerät abmelden",
+  "DEREGISTER_DEVICE_MESSAGE": "Sind Sie sicher, dass Sie Ihr Gerät abmelden möchten? Sie können sich auf diesem Gerät erst wieder anmelden, wenn Sie es erneut registrieren.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Sie können Geräte nur für sich selbst registrieren.",
+  "UNKNOWN_DEVICE_LITERAL": "Unbekanntes Gerät",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Möchten Sie dieses Gerät für sikobaPay registrieren? Sie benötigen dafür ein schon registriertes Gerät.",
+  "REGISTER_LITERAL": "Registrieren Sie",
+  "REGISTER_DEVICE_LITERAL": "Gerät registrieren",
+  "SCAN_WITH_REGISTERED_DEVICE": "Scannen Sie den untenstehenden QR-Code mit einem Ihrer registrierten Geräte.",
+  "DONE_LITERAL": "Fertig!"
 }

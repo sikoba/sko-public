@@ -248,5 +248,17 @@
   "YESTERDAY": "Вчора",
   "CONTEXTS_LITERAL": "Контексти",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Ви не можете скасувати з'єднання, у якого є кредитні лінії з активними борговими розписками.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Ви не може скасувати кредитну лінію з активною борговою розпискою."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Ви не може скасувати кредитну лінію з активною борговою розпискою.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Підтвердити реєстрацію нового пристрою",
+  "ADD_DEVICE_FOR_LITERAL": "Додати пристрій для",
+  "REGISTER_DEVICE_SUCCESS": "Пристрій успішно зареєстровано",
+  "DEREGISTER_DEVICE_LITERAL": "Видалити пристрій з реєстру",
+  "DEREGISTER_DEVICE_MESSAGE": "Ви впевнені, що хочете видалити цей пристрій з реєстру? Ви не зможете використовувати цей пристрій, поки не зареєструєте його знову.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Ви можете реєструвати пристрої тільки на своє ім'я.",
+  "UNKNOWN_DEVICE_LITERAL": "Невідомий пристрій",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Ви хочете зареєструвати цей пристрій для sikobaPay? Вам знадобиться вже зареєстрований пристрій.",
+  "REGISTER_LITERAL": "Зареєструватися",
+  "REGISTER_DEVICE_LITERAL": "Зареєструвати пристрій",
+  "SCAN_WITH_REGISTERED_DEVICE": "Відскануте QR-код, вказаний нижче, використовуючи один з зареєстрованих пристроїв.",
+  "DONE_LITERAL": "Готово"
 }

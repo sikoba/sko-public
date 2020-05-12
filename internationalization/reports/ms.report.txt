@@ -6,5 +6,3 @@
 ? found English text for UNFREEZING_CREDIT_LINE_LITERAL : Unfreezing credit line...
 ? found English text for IOUS_LITERAL : IOUs
 ? found English text for DUE_LITERAL : Due
-? found English text for AVAILABLE_LITERAL : Available
-? found English text for TOTAL_LITERAL : Total

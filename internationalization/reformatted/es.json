@@ -248,5 +248,17 @@
   "YESTERDAY": "Ayer",
   "CONTEXTS_LITERAL": "Contextos",
   "CANNOT_CANCEL_CONNECTION_IOUS": "No se puede cancelar una conexión que tiene líneas de crédito con pagarés activos.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "No se puede cancelar una línea de crédito con pagarés activos."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "No se puede cancelar una línea de crédito con pagarés activos.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Confirmar el registro de un nuevo aparato",
+  "ADD_DEVICE_FOR_LITERAL": "Añadir el aparato para",
+  "REGISTER_DEVICE_SUCCESS": "El aparato se registró con éxito",
+  "DEREGISTER_DEVICE_LITERAL": "Desregistro el aparato",
+  "DEREGISTER_DEVICE_MESSAGE": "¿Está seguro de que quiere desregistrar su aparato? No podrás acceder a este aparato hasta que lo registres de nuevo.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Sólo puedes registrar los aparatos para ti mismo",
+  "UNKNOWN_DEVICE_LITERAL": "Aparato desconocido",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "¿Quieres registrar este aparato para sikobaPay? Necesitarás un aparato ya registrado.",
+  "REGISTER_LITERAL": "Registra",
+  "REGISTER_DEVICE_LITERAL": "Registrar el aparato",
+  "SCAN_WITH_REGISTERED_DEVICE": "Escanea el código QR de abajo con uno de tus aparatos registrados.",
+  "DONE_LITERAL": "Hecho"
 }

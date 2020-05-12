@@ -9,3 +9,15 @@
 ! found empty item CONTEXTS_LITERAL
 ! found empty item CANNOT_CANCEL_CONNECTION_IOUS
 ! found empty item CANNOT_CANCEL_CREDIT_LINE_IOUS
+! found empty item CONFIRM_REGISTER_DEVICE_LITERAL
+! found empty item ADD_DEVICE_FOR_LITERAL
+! found empty item REGISTER_DEVICE_SUCCESS
+! found empty item DEREGISTER_DEVICE_LITERAL
+! found empty item DEREGISTER_DEVICE_MESSAGE
+! found empty item CANNOT_REGISTER_FOR_OTHER_USER
+! found empty item UNKNOWN_DEVICE_LITERAL
+! found empty item DO_YOU_WANT_TO_REGISTER_DEVICE
+! found empty item REGISTER_LITERAL
+! found empty item REGISTER_DEVICE_LITERAL
+! found empty item SCAN_WITH_REGISTERED_DEVICE
+! found empty item DONE_LITERAL

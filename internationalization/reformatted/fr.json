@@ -248,5 +248,17 @@
   "YESTERDAY": "Hier",
   "CONTEXTS_LITERAL": "Contextes",
   "CANNOT_CANCEL_CONNECTION_IOUS": "Impossible d'annuler une connexion avec des lignes de crédit actuellement utilsées.",
-  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Impossible d'annuler une ligne de crédit actuellement utilsée."
+  "CANNOT_CANCEL_CREDIT_LINE_IOUS": "Impossible d'annuler une ligne de crédit actuellement utilsée.",
+  "CONFIRM_REGISTER_DEVICE_LITERAL": "Confirmer l'enregistrement d'un nouvel appareil",
+  "ADD_DEVICE_FOR_LITERAL": "Ajouter un appareil pour",
+  "REGISTER_DEVICE_SUCCESS": "Appareil enregistré avec succès",
+  "DEREGISTER_DEVICE_LITERAL": "Désenregistrement de l'appareil",
+  "DEREGISTER_DEVICE_MESSAGE": "Êtes-vous sûr de vouloir désenregistrer votre appareil ? Vous ne pourrez pas vous connecter à cet appareil tant que vous ne l'aurez pas réenregistré.",
+  "CANNOT_REGISTER_FOR_OTHER_USER": "Vous ne pouvez enregistrer un appareil que pour votre propre compte",
+  "UNKNOWN_DEVICE_LITERAL": "Appareil inconnu",
+  "DO_YOU_WANT_TO_REGISTER_DEVICE": "Voulez-vous enregistrer cet appareil pour sikobaPay? Vous aurez besoin d'un appareil déjà enregistré.",
+  "REGISTER_LITERAL": "Enregistrez",
+  "REGISTER_DEVICE_LITERAL": "Enregistrement d'un appareil",
+  "SCAN_WITH_REGISTERED_DEVICE": "Scannez le code QR ci-dessous avec l'un de vos appareils enregistrés.",
+  "DONE_LITERAL": "C'est fait!"
 }
