@@ -2,24 +2,24 @@
 
 ===== 1 - Read relevant JSON files
 
-reading in en.json
-reading in pt.json
-reading in sr.json
-reading in ms.json
-reading in 0.json
 reading in es.json
-reading in lb.json
-reading in tl.json
-reading in pl.json
-reading in mk.json
 reading in ru.json
-reading in zh-Hant.json
-reading in uk.json
-! unknown file README.md
-reading in zh-Hans.json
-reading in it.json
 reading in fr.json
+reading in 0.json
+reading in pl.json
+reading in en.json
+reading in ms.json
+reading in zh-Hant.json
+reading in mk.json
+! unknown file README.md
+reading in it.json
+reading in lb.json
+reading in pt.json
+reading in zh-Hans.json
 reading in de.json
+reading in tl.json
+reading in sr.json
+reading in uk.json
 
 ===== 2 - Check if 0.json and en.json have been read
 
@@ -27,60 +27,60 @@ ok
 
 ===== 3 - Check languages file contents (compare to en)
 
-processing pt
-processing sr
-processing ms
 processing es
-processing lb
-processing tl
-processing pl
-processing mk
 processing ru
-processing zh-Hant
-processing uk
-processing zh-Hans
-processing it
 processing fr
+processing pl
+processing ms
+processing zh-Hant
+processing mk
+processing it
+processing lb
+processing pt
+processing zh-Hans
 processing de
+processing tl
+processing sr
+processing uk
 
 ===== 4 - Check 0.json content
 
 Ok, no missing language codes!
-Ok, no unknown language codes!
+! Unknown language(s) in 0.json: ["vi"]
 
 ===== 5 - Outputs
 
-writing to reports/pt.report.txt
-writing to reports/sr.report.txt
-writing to reports/ms.report.txt
 writing to reports/es.report.txt
-writing to reports/lb.report.txt
-writing to reports/tl.report.txt
-writing to reports/pl.report.txt
-writing to reports/mk.report.txt
 writing to reports/ru.report.txt
-writing to reports/zh-Hant.report.txt
-writing to reports/uk.report.txt
-writing to reports/zh-Hans.report.txt
-writing to reports/it.report.txt
 writing to reports/fr.report.txt
+writing to reports/pl.report.txt
+writing to reports/ms.report.txt
+writing to reports/zh-Hant.report.txt
+writing to reports/mk.report.txt
+writing to reports/it.report.txt
+writing to reports/lb.report.txt
+writing to reports/pt.report.txt
+writing to reports/zh-Hans.report.txt
 writing to reports/de.report.txt
+writing to reports/tl.report.txt
+writing to reports/sr.report.txt
+writing to reports/uk.report.txt
 writing to: reformatted/en.json
-writing to: reformatted/pt.json
-writing to: reformatted/sr.json
-writing to: reformatted/ms.json
 writing to: reformatted/es.json
-writing to: reformatted/lb.json
-writing to: reformatted/tl.json
-writing to: reformatted/pl.json
-writing to: reformatted/mk.json
 writing to: reformatted/ru.json
-writing to: reformatted/zh-Hant.json
-writing to: reformatted/uk.json
-writing to: reformatted/zh-Hans.json
-writing to: reformatted/it.json
 writing to: reformatted/fr.json
+writing to: reformatted/pl.json
+writing to: reformatted/ms.json
+writing to: reformatted/zh-Hant.json
+writing to: reformatted/mk.json
+writing to: reformatted/it.json
+writing to: reformatted/lb.json
+writing to: reformatted/pt.json
+writing to: reformatted/zh-Hans.json
 writing to: reformatted/de.json
+writing to: reformatted/tl.json
+writing to: reformatted/sr.json
+writing to: reformatted/uk.json
 
 ===== 5 - Write to log and exit
 
