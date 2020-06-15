@@ -6,10 +6,12 @@ reading in es.json
 reading in ru.json
 reading in fr.json
 reading in 0.json
+reading in fa.json
 reading in pl.json
 reading in en.json
 reading in ms.json
 reading in zh-Hant.json
+reading in vi.json
 reading in mk.json
 ! unknown file README.md
 reading in it.json
@@ -30,9 +32,11 @@ ok
 processing es
 processing ru
 processing fr
+processing fa
 processing pl
 processing ms
 processing zh-Hant
+processing vi
 processing mk
 processing it
 processing lb
@@ -46,16 +50,18 @@ processing uk
 ===== 4 - Check 0.json content
 
 Ok, no missing language codes!
-! Unknown language(s) in 0.json: ["fa", "vi"]
+Ok, no unknown language codes!
 
 ===== 5 - Outputs
 
 writing to reports/es.report.txt
 writing to reports/ru.report.txt
 writing to reports/fr.report.txt
+writing to reports/fa.report.txt
 writing to reports/pl.report.txt
 writing to reports/ms.report.txt
 writing to reports/zh-Hant.report.txt
+writing to reports/vi.report.txt
 writing to reports/mk.report.txt
 writing to reports/it.report.txt
 writing to reports/lb.report.txt
@@ -69,9 +75,11 @@ writing to: reformatted/en.json
 writing to: reformatted/es.json
 writing to: reformatted/ru.json
 writing to: reformatted/fr.json
+writing to: reformatted/fa.json
 writing to: reformatted/pl.json
 writing to: reformatted/ms.json
 writing to: reformatted/zh-Hant.json
+writing to: reformatted/vi.json
 writing to: reformatted/mk.json
 writing to: reformatted/it.json
 writing to: reformatted/lb.json
