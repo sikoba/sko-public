@@ -46,7 +46,7 @@ processing uk
 ===== 4 - Check 0.json content
 
 Ok, no missing language codes!
-! Unknown language(s) in 0.json: ["vi"]
+! Unknown language(s) in 0.json: ["fa", "vi"]
 
 ===== 5 - Outputs
 
