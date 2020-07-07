@@ -66,7 +66,7 @@
 ! found empty item REGISTERING_DEVICE_LITERAL
 ! found empty item DEREGISTERING_DEVICE_LITERAL
 ! found empty item CREATE_AN_ACCOUNT_LITERAL
-! found empty item BETA_KEY_DISCLAIME
+! found empty item BETA_KEY_DISCLAIMER
 ! found empty item ENTER_YOUR_DATA_LITERAL
 ! found empty item PHONE_NUMBER_IS_NOT_VALID_LITERAL
 ! found empty item REQUIRED_LITERAL
@@ -80,7 +80,7 @@
 ! found empty item FULL_CONTROL_DISCLAIMER
 ! found empty item CREATE_ACCOUNT_LITERAL
 ! found empty item SEE_MASTER_KEY_LITERAL
-! found empty item "MASTER_KEY_LITERAL
+! found empty item MASTER_KEY_LITERAL
 ! found empty item SEED_EXPLAINER
 ! found empty item SEED_WARNING
 ! found empty item OPTIONAL_PASSWORD_PROTECT
@@ -90,7 +90,7 @@
 ! found empty item MNEMONIC_PASSWORD_LITERAL
 ! found empty item REPEAT_MNEMONIC_PASSWORD_LITERAL
 ! found empty item ENTER_MASTER_KEY_MESSAGE
-! found empty item MASTER_KEY_NOT_INITIATED_LITERAL: "Master key not initiated.",
+! found empty item MASTER_KEY_NOT_INITIATED_LITERAL
 ! found empty item INITIATE_MASTER_KEY_MESSAGE
 ! found empty item SIGNING_IN_LITERAL
 ! found empty item FORGOT_PASSWORD_LITERAL
@@ -131,7 +131,7 @@
 ! found empty item FIRST_NAME_LITERAL
 ! found empty item LAST_NAME_LITERAL
 ! found empty item CITY_LITERAL
-! found empty item COUNTRY_LITERAL:
+! found empty item COUNTRY_LITERAL
 ! found empty item EDIT_PROFILE_LITERAL
 ! found empty item BIRTHDATE_LITERAL
 ! found empty item SELECT_YOUR_BIRTHDATE_MESSAGE
