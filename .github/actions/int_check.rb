@@ -152,7 +152,7 @@ hlog "5 - Outputs"
 def content_format(input)
   res = ""
   input.each do |k,v|
-    res += "{\"#{k}\", \"#{v}\"},"
+    res += "{\"#{k}\", \"#{v}\"},\n"
   end
   res
 end
