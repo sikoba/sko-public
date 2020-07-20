@@ -149,6 +149,14 @@ end
 
 hlog "5 - Outputs"
 
+def content_format(input)
+  res = ""
+  input.each do |k,v|
+    res += "{\"#{k}\", \"#{v}\"},"
+  end
+  res
+end
+
 Dir.chdir(@dir_reports) do
 
   @report.keys.each do |iso|
@@ -163,11 +171,11 @@ end
 Dir.chdir(@dir_reformatted) do
 
   log "writing to: reformatted/en.json"
-  File.write('./en.json', JSON.pretty_generate(@en))
+  File.write('./en.json', content_format(@en))
 
   @report.keys.each do |iso|
   log "writing to: reformatted/#{iso}.json"
-  File.write("./#{iso}.json", JSON.pretty_generate(@out[iso]))
+  File.write("./#{iso}.json", content_format(@out[iso]))
   end
 
 end
