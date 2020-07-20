@@ -1,3 +1,4 @@
 
 ? found English text for DEFAULT_CURRENCY_LITERAL : Default currency
 ? found English text for DEFAULT_SINGLE_MAX_LITERAL : Default single max.
+! added missing item PLACEHOLDER_TRIGGER
