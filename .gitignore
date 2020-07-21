@@ -1,3 +1,5 @@
 /.github/actions/cmd.bat
 
 /docusaurus/website/node_modules
+
+/docusaurus/website/build
