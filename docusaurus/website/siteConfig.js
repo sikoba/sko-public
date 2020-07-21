@@ -59,7 +59,7 @@ const siteConfig = {
     secondaryColor: '#43355f',
   },
 
-  editUrl: 'https://github.com/sikoba/sko-public/docusaurus/edit/master/docs/',
+  editUrl: 'https://github.com/sikoba/sko-public/edit/docs/docusaurus/docs/',
 
   /* Custom fonts for website */
   /*
