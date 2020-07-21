@@ -1,0 +1,11 @@
+{
+  "docs": {
+    "Getting Started": ["overview", "vocabulary"],
+    "Authentication": ["sign-up", "verify-phone-number", "verify-phone-number", "change-password", "sign-in"],
+    "Main screens": ["home", "menu"],
+    "Connections": ["connections-screen", "add-new-connection"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
