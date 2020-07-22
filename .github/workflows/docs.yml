@@ -20,17 +20,24 @@ jobs:
         uses: actions/setup-node@v2.1.0
         with:
           node-version: '12.x'
-          
-      - name: Install
-        working-directory: ./docusaurus/website
-        run: npm install
-      
-      - name: Set credentials
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action" 
-      
+
+      - name: Get yarn cache
+        id: yarn-cache
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.yarn-cache.outputs.dir }}
+          key: ${{ runner.os }}-website-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-website-
+
+      - run: yarn install --frozen-lockfile
+      - run: yarn build
+
       - name: Deploy
-        working-directory: ./docusaurus/website
-        run: npm run publish-gh-pages
-              
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docusaurus/website/build
