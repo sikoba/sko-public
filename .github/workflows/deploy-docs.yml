@@ -1,6 +1,11 @@
 name: Deploy to GitHub Pages
 
-on: [push]
+on:
+  push:
+    branches:
+    - 'docs'
+    paths:
+    - 'docusaurus/**'
       
 jobs:
   build-and-deploy:
