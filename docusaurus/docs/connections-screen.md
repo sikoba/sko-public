@@ -4,8 +4,6 @@ title: Connections screen
 sidebar_label: Connections screen
 ---
 
-## TEST
-
 This screen shows you all of your connections and their status, which can be:
 
 - Pending - A connection that needs to be accepted by one user
