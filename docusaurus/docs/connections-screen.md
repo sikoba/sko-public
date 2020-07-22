@@ -4,7 +4,7 @@ title: Connections screen
 sidebar_label: Connections screen
 ---
 
-## Update
+## Update test
 
 This screen shows you all of your connections and their status, which can be:
 
