@@ -4,3 +4,4 @@
 ? found English text for ENTER_LITERAL : Enter
 ? found English text for TOTAL_LITERAL : Total
 ? found English text for OPTIONAL_LITERAL : Optional
+! added missing item PLACEHOLDER_TRIGGER

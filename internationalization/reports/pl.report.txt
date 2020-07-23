@@ -5,3 +5,4 @@
 ? found English text for RUNNING : Running
 ? found English text for GRANTEE_LITERAL : Grantee
 ? found English text for ENTER_LITERAL : Enter
+! added missing item PLACEHOLDER_TRIGGER
