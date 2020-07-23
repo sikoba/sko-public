@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'sikobaPay User Documentation', // Title for your website.
   tagline: 'A website for testing',
-  url: 'https://sikoba.github.io', // Your website URL
-  baseUrl: '/sko-public/', // Base URL for your project */
+  url: 'https://reverent-jackson-0a0270.netlify.app/', // Your website URL
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
