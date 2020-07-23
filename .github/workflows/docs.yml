@@ -28,11 +28,14 @@ jobs:
       - name: build
         working-directory: ./docusaurus/website
         run: npm run build
-
+        
       - name: deploy
-        uses: peaceiris/actions-gh-pages@v2.3.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}  
-#           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./website/build
+        working-directory: ./docusaurus/website
+        run: GIT_USER=KaterinaLupacheva CURRENT_BRANCH=docs npm run publish-gh-pages 
+
+#       - name: deploy
+#         uses: peaceiris/actions-gh-pages@v2.3.0
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}  
+#           PUBLISH_BRANCH: gh-pages
+#           PUBLISH_DIR: ./website/build/sko-public
