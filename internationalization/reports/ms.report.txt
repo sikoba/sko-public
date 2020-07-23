@@ -1,8 +1,0 @@
-
-? found English text for DASHBOARD_LITERAL : Dashboard
-? found English text for STATUS_LITERAL : Status
-? found English text for PENDING : Pending
-? found English text for EMAIL_LITERAL : Email
-? found English text for UNFREEZING_CREDIT_LINE_LITERAL : Unfreezing credit line...
-? found English text for IOUS_LITERAL : IOUs
-? found English text for DUE_LITERAL : Due

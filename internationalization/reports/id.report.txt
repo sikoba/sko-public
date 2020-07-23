@@ -1,5 +1,0 @@
-
-? found English text for STATUS_LITERAL : Status
-? found English text for EMAIL_LITERAL : Email
-? found English text for IOUS_LITERAL : IOUs
-? found English text for TOTAL_LITERAL : Total

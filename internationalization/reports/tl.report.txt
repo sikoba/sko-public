@@ -1,9 +1,0 @@
-
-? found English text for PENDING : Pending
-? found English text for PASSWORD_LITERAL : Password
-? found English text for IOUS_LITERAL : IOUs
-? found English text for USER_LITERAL : User
-? found English text for ETHEREUM_ADDRESS_LITERAL : Ethereum address
-? found English text for CRYPTOGRAPHY_LITERAL : Cryptography
-? found English text for MASTER_KEY_LITERAL : Master key
-? found English text for BETA_KEY_LITERAL : Beta key
