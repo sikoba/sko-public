@@ -147,7 +147,9 @@ end
   
 #####
 
-hlog "5 - Outputs"
+# Handles generating all main files' content which is stored in the backend.
+
+hlog "5.a - Outputs - main"
 
 def content_format(input)
   res = ""
@@ -158,28 +160,34 @@ def content_format(input)
 end
 
 Dir.chdir(@dir_reports) do
-
   @report.keys.each do |iso|
     next if @report[iso] == ""
 	log "writing to reports/#{iso}.report.txt"
     File.write("./#{iso}.report.txt", @report[iso])
   end
-
 end
-
 
 Dir.chdir(@dir_reformatted) do
-
-  log "writing to: reformatted/en.json"
-  File.write('./en.json', content_format(@en))
+  log "writing to: reformatted/en.content"
+  File.write('./en.content', content_format(@en))
 
   @report.keys.each do |iso|
-  log "writing to: reformatted/#{iso}.json"
-  File.write("./#{iso}.json", content_format(@out[iso]))
+  log "writing to: reformatted/#{iso}.content"
+  File.write("./#{iso}.content", content_format(@out[iso]))
   end
-
 end
 
+# Handles writing the en.json file which will be plugged in the frontend code.
+# This will be used as the last fallback in cases where the user opens the app
+# but he has no internet connection to retrieve language files from the server
+# and he does not have any cached language files.
+
+hlog "5.b - Outputs - secondary"
+
+Dir.chdir(@dir_reformatted) do
+  log "writing to: reformatted/en.json"
+  File.write('./en.json', JSON.pretty_generate(@en))
+end
 
 #####
 
