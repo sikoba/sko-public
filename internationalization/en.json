@@ -344,6 +344,5 @@
   "PRIVACY_LEVEL_LITERAL": "Privacy level",
   "USERNAME_MINIMAL_LENGTH_MESSAGE": "Username has to contain at least 6 characters.",
   "ALPHANUMERIC_CHARACTERS_ONLY": "Please only use alphanumeric characters.",
-  "NOT_SET_LITERAL": "Not set",
-  "PLACEHOLDER_TRIGGER": "placeholder"
+  "NOT_SET_LITERAL": "Not set"
 }
