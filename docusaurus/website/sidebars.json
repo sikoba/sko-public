@@ -6,6 +6,7 @@
     "Connections": ["connections-screen", "add-new-connection"],
     "Creadit lines" : ["creadit-lines-screen", "add-new-credit-line"],
     "Conversion permits": ["credit-conversion", "set-up-conversion-profile", "grant-conversion-permit", "revoke-conversion-permit"],
-    "Payments": ["make-payment", "request-payment", "iou-settlement", "full-iou-settlement", "partial-iou-settlement"]
+    "Payments": ["make-payment", "request-payment", "iou-settlement", "full-iou-settlement", "partial-iou-settlement"],
+    "Settings": ["settings-screen", "change-user-preferences", "change-phone-number"]
   }
 }

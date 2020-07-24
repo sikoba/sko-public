@@ -16,6 +16,12 @@
         "title": "Change password",
         "sidebar_label": "Change password"
       },
+      "change-phone-number": {
+        "title": "Change phone number"
+      },
+      "change-user-preferences": {
+        "title": "Change user preferences"
+      },
       "connections-screen": {
         "title": "Connections screen",
         "sidebar_label": "Connections screen"
@@ -62,6 +68,9 @@
       "set-up-conversion-profile": {
         "title": "Set up conversion profile"
       },
+      "settings-screen": {
+        "title": "Settings screen"
+      },
       "sign-in": {
         "title": "Signing in",
         "sidebar_label": "Sign in"
@@ -88,7 +97,8 @@
       "Connections": "Connections",
       "Creadit lines": "Creadit lines",
       "Conversion permits": "Conversion permits",
-      "Payments": "Payments"
+      "Payments": "Payments",
+      "Settings": "Settings"
     }
   },
   "pages-strings": {
