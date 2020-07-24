@@ -20,8 +20,14 @@
         "title": "Connections screen",
         "sidebar_label": "Connections screen"
       },
+      "credit-conversion": {
+        "title": "Credit conversion"
+      },
       "creadit-lines-screen": {
         "title": "Credit lines screen"
+      },
+      "grant-conversion-permit": {
+        "title": "Grant a conversion permit"
       },
       "home": {
         "title": "Home screen",
@@ -34,6 +40,12 @@
       "overview": {
         "title": "Getting started",
         "sidebar_label": "Welcome"
+      },
+      "revoke-conversion-permit": {
+        "title": "Revoke a conversion permit"
+      },
+      "set-up-conversion-profile": {
+        "title": "Set up conversion profile"
       },
       "sign-in": {
         "title": "Signing in",
@@ -60,7 +72,7 @@
       "Main screens": "Main screens",
       "Connections": "Connections",
       "Creadit lines": "Creadit lines",
-      "First Category": "First Category"
+      "Conversion permits": "Conversion permits"
     }
   },
   "pages-strings": {
