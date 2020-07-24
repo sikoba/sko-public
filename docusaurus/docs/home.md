@@ -7,6 +7,11 @@ hide_title: true
 
 ## Balance screen
 
+<p>
+    <img src="assets/balance1.png" alt="home screen" width="226" height="460" style="display: inline;"/>
+    <img src="assets/balance2.png" alt="home screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+</p>
+
 The first screen you will see is the **Balance Screen**. This screen displays:
 
 - Your current balance
@@ -31,8 +36,3 @@ SKS tokens are needed for any actions you take. For more details on SKS, check o
 ## Next settlements
 
 This section displays all the active IOUs you currently have. This includes both IOUs you have paid and IOUs that people have paid you. You can see more about an IOU in detail by tapping on it.
-
-<p>
-    <img src="assets/balance1.png" alt="home screen" width="226" height="460" style="display: inline;"/>
-    <img src="assets/balance2.png" alt="home screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
-</p>

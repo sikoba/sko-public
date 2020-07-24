@@ -26,12 +26,21 @@
       "creadit-lines-screen": {
         "title": "Credit lines screen"
       },
+      "full-iou-settlement": {
+        "title": "Full IOU settlement"
+      },
       "grant-conversion-permit": {
         "title": "Grant a conversion permit"
       },
       "home": {
         "title": "Home screen",
         "sidebar_label": "Home screen"
+      },
+      "iou-settlement": {
+        "title": "IOU settlement"
+      },
+      "make-payment": {
+        "title": "Make payment"
       },
       "menu": {
         "title": "Menu screen",
@@ -40,6 +49,12 @@
       "overview": {
         "title": "Getting started",
         "sidebar_label": "Welcome"
+      },
+      "partial-iou-settlement": {
+        "title": "Partial IOU settlement"
+      },
+      "request-payment": {
+        "title": "Request payment"
       },
       "revoke-conversion-permit": {
         "title": "Revoke a conversion permit"
@@ -72,7 +87,8 @@
       "Main screens": "Main screens",
       "Connections": "Connections",
       "Creadit lines": "Creadit lines",
-      "Conversion permits": "Conversion permits"
+      "Conversion permits": "Conversion permits",
+      "Payments": "Payments"
     }
   },
   "pages-strings": {
