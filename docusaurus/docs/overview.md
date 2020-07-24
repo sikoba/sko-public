@@ -4,9 +4,7 @@ title: Getting started
 sidebar_label: Welcome
 ---
 
-## Welcome betatesters!!!
-
-If you want to share this page, here is a short [link to it](tiny.cc/t1j5mz).
+## Welcome betatesters!
 
 Please join the following [Telegram channel](https://t.me/sikobaPay_BETATESTERS) to give us your comments, feedback and for any help needed.
 

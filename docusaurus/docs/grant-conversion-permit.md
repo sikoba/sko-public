@@ -13,7 +13,7 @@ To grant a [conversion permit](vocabulary.md#conversion-permit):
 
 <img src="assets/grant-cp2.png" alt="grant conversion permit" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Enter the conversion fee you want to charge
+- Enter the [conversion fee](vocabulary.md#conversion-fee) you want to charge
 
 <img src="assets/grant-cp3.png" alt="grant conversion permit" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 

@@ -14,4 +14,4 @@ This screen shows you your user settings, you can:
 - Select your [Clearing Flexibility](vocabulary.md#clearing-flexibility)
 - Select your language
 - Logout
-- Show your QR code
+- Show your [QR code](qr-codes.md)

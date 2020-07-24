@@ -15,14 +15,14 @@ hide_title: true
 The first screen you will see is the **Balance Screen**. This screen displays:
 
 - Your current balance
-- Allows you to request a payment
+- Allows you to [request a payment](request-payment.md)
 - Shows your next settlements
 
 You can also:
 
-- Make a payment to one of your connections using the ‘$’ button
-- Open the menu using the - icon
-- Use the QR code icon in bottom right corner to scan QR codes
+- [Make a payment](make-payment.md) to one of your connections using the ‘$’ button
+- Open the [menu](menu.md) using the - icon
+- Use the QR code icon in bottom right corner to scan [QR codes](qr-codes.md)
 
 ## Balance
 

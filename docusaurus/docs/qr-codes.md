@@ -10,7 +10,7 @@ The app will automatically detect what action you are attempting to trigger base
 There are several actions that can be represented by QR code:
 
 1. [Request payment](request-payment.md)
-2. Find connection
-3. Find credit line
-4. Find IOU
-5. Find user
+2. [Find connection](find-connection.md)
+3. [Find credit line](find-credit-line.md)
+4. [Find IOU](find-iou.md)
+5. [Find user](find-user.md)
