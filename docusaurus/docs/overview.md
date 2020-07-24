@@ -4,7 +4,7 @@ title: Getting started
 sidebar_label: Welcome
 ---
 
-## Welcome betatesters!!!
+## Welcome betatesters!
 
 If you want to share this page, here is a short [link to it](tiny.cc/t1j5mz).
 
