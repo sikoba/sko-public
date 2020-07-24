@@ -32,6 +32,18 @@
       "creadit-lines-screen": {
         "title": "Credit lines screen"
       },
+      "find-connection": {
+        "title": "Find connection"
+      },
+      "find-credit-line": {
+        "title": "Find credit line"
+      },
+      "find-iou": {
+        "title": "Find IOU"
+      },
+      "find-user": {
+        "title": "Find user"
+      },
       "full-iou-settlement": {
         "title": "Full IOU settlement"
       },
@@ -58,6 +70,9 @@
       },
       "partial-iou-settlement": {
         "title": "Partial IOU settlement"
+      },
+      "qr-codes": {
+        "title": "QR codes"
       },
       "request-payment": {
         "title": "Request payment"
@@ -98,7 +113,8 @@
       "Creadit lines": "Creadit lines",
       "Conversion permits": "Conversion permits",
       "Payments": "Payments",
-      "Settings": "Settings"
+      "Settings": "Settings",
+      "QR codes": "QR codes"
     }
   },
   "pages-strings": {
