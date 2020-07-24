@@ -9,6 +9,9 @@
         "title": "Add new connection",
         "sidebar_label": "Add new connection"
       },
+      "add-new-credit-line": {
+        "title": "Add new credit line"
+      },
       "change-password": {
         "title": "Change password",
         "sidebar_label": "Change password"
@@ -16,6 +19,9 @@
       "connections-screen": {
         "title": "Connections screen",
         "sidebar_label": "Connections screen"
+      },
+      "creadit-lines-screen": {
+        "title": "Credit lines screen"
       },
       "home": {
         "title": "Home screen",
@@ -53,6 +59,7 @@
       "Authentication": "Authentication",
       "Main screens": "Main screens",
       "Connections": "Connections",
+      "Creadit lines": "Creadit lines",
       "First Category": "First Category"
     }
   },

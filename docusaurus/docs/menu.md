@@ -6,8 +6,8 @@ sidebar_label: Menu screen
 
 The menu allows you to:
 
-- Open the connections page
-- Open the credit lines page
+- Open the [connections page](connections-screen.md)
+- Open the [credit lines page](credit-lines-screen.md)
 - Open the settings page
 
 <p>
