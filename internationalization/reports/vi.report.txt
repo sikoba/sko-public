@@ -345,4 +345,3 @@
 ! found empty item USERNAME_MINIMAL_LENGTH_MESSAGE
 ! found empty item ALPHANUMERIC_CHARACTERS_ONLY
 ! found empty item NOT_SET_LITERAL
-! added missing item PLACEHOLDER_TRIGGER

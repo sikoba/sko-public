@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Ang username ay kailangang maglaman ng hindi bababa sa 6 na character."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Mangyaring gamitin lamang ang mga character na alphanumeric."},
 {"NOT_SET_LITERAL", "Hindi nakatakda"},
-{"PLACEHOLDER_TRIGGER", ""},

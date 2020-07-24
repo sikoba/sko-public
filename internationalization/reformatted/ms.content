@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Nama pengguna mesti mengandungi sekurang-kurangnya 6 aksara."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Sila gunakan aksara alfanumerik sahaja."},
 {"NOT_SET_LITERAL", "Tidak ditetapkan"},
-{"PLACEHOLDER_TRIGGER", ""},

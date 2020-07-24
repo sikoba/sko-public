@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Корисничко име мора да садржи најмање 6 знакова."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Молимо користите само алфанумеричке знакове."},
 {"NOT_SET_LITERAL", "Празно"},
-{"PLACEHOLDER_TRIGGER", ""},

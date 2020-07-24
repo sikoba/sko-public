@@ -6,4 +6,3 @@
 ? found English text for UNFREEZING_CREDIT_LINE_LITERAL : Unfreezing credit line...
 ? found English text for IOUS_LITERAL : IOUs
 ? found English text for DUE_LITERAL : Due
-! added missing item PLACEHOLDER_TRIGGER

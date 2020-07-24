@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "De Benotzernumm muss op d'mannst 6 Zeechen enthalen."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Benotzt w.e.g. nëmmen alphanumeresch Zeechen."},
 {"NOT_SET_LITERAL", "Net gesat"},
-{"PLACEHOLDER_TRIGGER", ""},

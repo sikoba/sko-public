@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Nazwa użytkownika musi zawierać co najmniej 6 znaków."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Proszę używać tylko znaków alfanumerycznych."},
 {"NOT_SET_LITERAL", "Nie jest ustawiony"},
-{"PLACEHOLDER_TRIGGER", ""},

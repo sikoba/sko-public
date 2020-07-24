@@ -2,4 +2,3 @@
 ? found English text for DASHBOARD_LITERAL : Dashboard
 ? found English text for STATUS_LITERAL : Status
 ? found English text for EMAIL_LITERAL : Email
-! added missing item PLACEHOLDER_TRIGGER

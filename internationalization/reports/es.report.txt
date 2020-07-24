@@ -2,4 +2,3 @@
 ? found English text for TOTAL_LITERAL : Total
 ? found English text for NO_LITERAL : No
 ? found English text for VISIBLE_LITERAL : Visible
-! added missing item PLACEHOLDER_TRIGGER

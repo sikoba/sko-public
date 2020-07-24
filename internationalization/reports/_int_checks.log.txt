@@ -2,27 +2,27 @@
 
 ===== 1 - Read relevant JSON files
 
-reading in tl.json
-reading in id.json
-reading in vi.json
-reading in lb.json
-reading in fr.json
-reading in it.json
-reading in ru.json
-reading in fa.json
-reading in ms.json
-! unknown file README.md
-reading in de.json
-reading in es.json
-reading in pl.json
-reading in uk.json
-reading in zh-Hant.json
-reading in 0.json
 reading in en.json
-reading in sr.json
-reading in zh-Hans.json
-reading in pt.json
 reading in mk.json
+reading in id.json
+reading in 0.json
+reading in fa.json
+reading in pt.json
+reading in de.json
+reading in lb.json
+reading in sr.json
+reading in ru.json
+reading in zh-Hans.json
+reading in pl.json
+reading in ms.json
+reading in it.json
+reading in es.json
+reading in fr.json
+reading in tl.json
+reading in uk.json
+! unknown file README.md
+reading in vi.json
+reading in zh-Hant.json
 
 ===== 2 - Check if 0.json and en.json have been read
 
@@ -30,24 +30,24 @@ ok
 
 ===== 3 - Check languages file contents (compare to en)
 
-processing tl
-processing id
-processing vi
-processing lb
-processing fr
-processing it
-processing ru
-processing fa
-processing ms
-processing de
-processing es
-processing pl
-processing uk
-processing zh-Hant
-processing sr
-processing zh-Hans
-processing pt
 processing mk
+processing id
+processing fa
+processing pt
+processing de
+processing lb
+processing sr
+processing ru
+processing zh-Hans
+processing pl
+processing ms
+processing it
+processing es
+processing fr
+processing tl
+processing uk
+processing vi
+processing zh-Hant
 
 ===== 4 - Check 0.json content
 
@@ -56,43 +56,43 @@ Ok, no unknown language codes!
 
 ===== 5.a - Outputs - main
 
-writing to reports/tl.report.txt
-writing to reports/id.report.txt
-writing to reports/vi.report.txt
-writing to reports/lb.report.txt
-writing to reports/fr.report.txt
-writing to reports/it.report.txt
-writing to reports/ru.report.txt
-writing to reports/fa.report.txt
-writing to reports/ms.report.txt
-writing to reports/de.report.txt
-writing to reports/es.report.txt
-writing to reports/pl.report.txt
-writing to reports/uk.report.txt
-writing to reports/zh-Hant.report.txt
-writing to reports/sr.report.txt
-writing to reports/zh-Hans.report.txt
-writing to reports/pt.report.txt
 writing to reports/mk.report.txt
+writing to reports/id.report.txt
+writing to reports/fa.report.txt
+writing to reports/pt.report.txt
+writing to reports/de.report.txt
+writing to reports/lb.report.txt
+writing to reports/sr.report.txt
+writing to reports/ru.report.txt
+writing to reports/zh-Hans.report.txt
+writing to reports/pl.report.txt
+writing to reports/ms.report.txt
+writing to reports/it.report.txt
+writing to reports/es.report.txt
+writing to reports/fr.report.txt
+writing to reports/tl.report.txt
+writing to reports/uk.report.txt
+writing to reports/vi.report.txt
+writing to reports/zh-Hant.report.txt
 writing to: reformatted/en.content
-writing to: reformatted/tl.json
-writing to: reformatted/id.json
-writing to: reformatted/vi.json
-writing to: reformatted/lb.json
-writing to: reformatted/fr.json
-writing to: reformatted/it.json
-writing to: reformatted/ru.json
-writing to: reformatted/fa.json
-writing to: reformatted/ms.json
-writing to: reformatted/de.json
-writing to: reformatted/es.json
-writing to: reformatted/pl.json
-writing to: reformatted/uk.json
-writing to: reformatted/zh-Hant.json
-writing to: reformatted/sr.json
-writing to: reformatted/zh-Hans.json
-writing to: reformatted/pt.json
-writing to: reformatted/mk.json
+writing to: reformatted/mk.content
+writing to: reformatted/id.content
+writing to: reformatted/fa.content
+writing to: reformatted/pt.content
+writing to: reformatted/de.content
+writing to: reformatted/lb.content
+writing to: reformatted/sr.content
+writing to: reformatted/ru.content
+writing to: reformatted/zh-Hans.content
+writing to: reformatted/pl.content
+writing to: reformatted/ms.content
+writing to: reformatted/it.content
+writing to: reformatted/es.content
+writing to: reformatted/fr.content
+writing to: reformatted/tl.content
+writing to: reformatted/uk.content
+writing to: reformatted/vi.content
+writing to: reformatted/zh-Hant.content
 
 ===== 5.b - Outputs - secondary
 

@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Nama pengguna harus mengandung setidaknya 6 karakter."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Harap hanya menggunakan karakter alfanumerik."},
 {"NOT_SET_LITERAL", "Tidak diatur"},
-{"PLACEHOLDER_TRIGGER", ""},

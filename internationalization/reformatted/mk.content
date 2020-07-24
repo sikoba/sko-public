@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Корисничкото име мора да има барем 6 карактери."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Само букви и бројки се дозволени во корисничкото име."},
 {"NOT_SET_LITERAL", "Празно"},
-{"PLACEHOLDER_TRIGGER", ""},

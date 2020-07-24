@@ -345,4 +345,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Ім'я користувача має містити не менше 6 символів"},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Будь ласка, використовуйте тільки букви і цифри"},
 {"NOT_SET_LITERAL", "Не встановлено"},
-{"PLACEHOLDER_TRIGGER", ""},

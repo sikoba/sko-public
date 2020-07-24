@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "نام کاربری باید حداقل 6 نویسه داشته باشد."},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "لطفا فقط از کاراکترهای الفبا استفاده کنید."},
 {"NOT_SET_LITERAL", "تنظیم نشده"},
-{"PLACEHOLDER_TRIGGER", ""},

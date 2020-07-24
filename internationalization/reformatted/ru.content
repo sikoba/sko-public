@@ -344,4 +344,3 @@
 {"USERNAME_MINIMAL_LENGTH_MESSAGE", "Имя пользователя должно содержать минимум 6 символов"},
 {"ALPHANUMERIC_CHARACTERS_ONLY", "Пожалуйста, используйте только буквы и цифры"},
 {"NOT_SET_LITERAL", "Не установлено"},
-{"PLACEHOLDER_TRIGGER", ""},
