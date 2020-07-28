@@ -17,7 +17,7 @@ A credit line is a relation of trust from one user to another; it means that the
 
 ## (Credit) conversion
 
-TO CHECK: this is when one user allows another to use his credit line towards another. For example: A wants to buy something from C, but C does not trust A. If C trusta B, and B trusts A, and B allows for credit conversion, the A can buy from C. The result is that A will owe B, and B will owe C.
+This is when one user allows another to use his credit line towards another. For example: A wants to buy something from C, but C does not trust A. If C trusts B, and B trusts A, and B allows for credit conversion, the A can buy from C. The result is that A will owe B, and B will owe C.
 
 ## Conversion profile
 
@@ -41,4 +41,4 @@ Describes the extra fee that a granter of a permit can impose on all payments cr
 
 ## Clearing flexibility
 
-TO CHECK : this is about offsetting IOUs that have different payment target dates. The higher the flexibility, the larger the difference (in days) of two such IOUs can be.
+This is about offsetting IOUs that have different payment target dates. The higher the flexibility, the larger the difference (in days) of two such IOUs can be.
