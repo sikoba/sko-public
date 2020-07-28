@@ -4,15 +4,61 @@ title: Signing up
 sidebar_label: Sign up
 ---
 
-## To sign up
+## Personal data
 
-- Select a username
-- Enter your phone number, including the country code
-- Choose a password
-- Enter your beta key - beta keys can be obtained by emailing betatesters@sikoba.com
-- Tap ‘Sign Up’
+- Select a username, choose a password, repeat a password and enter your beta key (can be obtained by emailing betatesters@sikoba.com)
 
-<p>
-    <img src="assets/signup1.png" alt="sign up" width="226" height="460" style="display: inline;"/>
-    <img src="assets/signup2.png" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
-</p>
+<img src="assets/signup1.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- Tap *Next*
+
+<img src="assets/signup2.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- Enter your phone number (including the country code), your display name, email (optional) and Ethereum address (optional). Then tap *Next*
+
+<img src="assets/signup3.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/signup4.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+## Cryptography
+
+Select how do you prefer to store your [master key](vocabulary.md#master-key).
+
+You can choose to store your master key on [our server](sign-up.md#server-stored) or you can have a [full control](sign-up.md#full-controll) over your account by writing down your master key.
+
+## Server-stored
+
+If you choose to store your master key on our server:
+
+- check *Server-tored* option and tap *Confirm*.
+
+<img src="assets/signup6.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- review all your data and tap *Create account*
+
+<img src="assets/signup7.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+## Full controll
+
+If you choose to have a full control over your account:
+
+- check *Full control* option and tap *See master key*
+
+<img src="assets/signup8.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- **WRITE DOWN** your master key (12 words). If you lose it, you can potentially LOSE YOUR ACCOUNT.
+
+<img src="assets/signup9.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- **optionally**, you can protect your master key with a password by choosing this option (or you can skip this step).
+
+  - Enter a master key password, repeat it and tap *Confirm*.
+
+  <img src="assets/signup10.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+  - Confirm that you have written down the twelve words.
+
+  <img src="assets/signup11.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- Review all your account information and tap *Create account*
+
+<img src="assets/signup12.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>

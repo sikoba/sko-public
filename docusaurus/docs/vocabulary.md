@@ -42,3 +42,7 @@ Describes the extra fee that a granter of a permit can impose on all payments cr
 ## Clearing flexibility
 
 This is about offsetting IOUs that have different payment target dates. The higher the flexibility, the larger the difference (in days) of two such IOUs can be.
+
+## Master key
+
+It is a cryptographic key for protection of other keys.
