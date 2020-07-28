@@ -13,8 +13,7 @@
         "title": "Add new credit line"
       },
       "change-password": {
-        "title": "Change password",
-        "sidebar_label": "Change password"
+        "title": "Change password"
       },
       "change-phone-number": {
         "title": "Change phone number"
