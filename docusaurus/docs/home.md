@@ -1,7 +1,7 @@
 ---
 id: home
 title: Home screen
-sidebar_label: Home screen
+sidebar_label: Balance screen
 hide_title: true
 ---
 
@@ -20,9 +20,9 @@ The first screen you will see is the **Balance Screen**. This screen displays:
 
 You can also:
 
-- [Make a payment](make-payment.md) to one of your connections using the ‘$’ button
-- Open the [menu](menu.md) using the - icon
-- Use the QR code icon in bottom right corner to scan [QR codes](qr-codes.md)
+- [Make a payment](make-payment.md) to one of your connections using the <img src="assets/dollar-icon.png" alt="dollar icon" width="25" style="margin-bottom: -7px"/> button
+- Open the [menu](menu.md) using the <img src="assets/menu-icon.png" alt="menu icon" width="25" style="margin-bottom: -7px"/> icon
+- Use the QR code icon <img src="assets/qr-code.png" alt="qr-code icon" width="20" style="margin-bottom: -3px; background: black; "/> in bottom right corner to scan [QR codes](qr-codes.md)
 
 ## Balance
 

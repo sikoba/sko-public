@@ -20,4 +20,3 @@ To change a password:
 - Enter the verification code that has been sent to your phone number.
 
 <img src="assets/change-pass4.png" alt="change password" width="226" height="460" style="display: inline; margin-left: 30px;"/>
-
