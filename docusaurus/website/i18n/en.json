@@ -28,7 +28,7 @@
       "credit-conversion": {
         "title": "Credit conversion"
       },
-      "creadit-lines-screen": {
+      "credit-lines-screen": {
         "title": "Credit lines screen"
       },
       "find-connection": {
@@ -108,7 +108,7 @@
       "Authentication": "Authentication",
       "Main screens": "Main screens",
       "Connections": "Connections",
-      "Creadit lines": "Creadit lines",
+      "Credit lines": "Credit lines",
       "Conversion permits": "Conversion permits",
       "Payments": "Payments",
       "Settings": "Settings",

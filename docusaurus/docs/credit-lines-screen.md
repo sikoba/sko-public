@@ -1,5 +1,5 @@
 ---
-id: creadit-lines-screen
+id: credit-lines-screen
 title: Credit lines screen
 ---
 

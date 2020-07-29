@@ -23,13 +23,13 @@ decide who can use your credit lines.
 4. Test the app - pay or request payments, watch as credits and debits are cleared automatically.
 5. Send us a feedback - we are aware that the app is still far from perfect, so any feedback is very welcome!
 
-Note that main Telegram channel is at [https://t.me/sikobaNetwork](https://t.me/sikobaNetwork).
+Our main Telegram channel is [https://t.me/sikobaNetwork](https://t.me/sikobaNetwork).
 
 ## Rewards
 
-We will give rewards to beta testers who provide the most **useful feedback**, and who help improve the user documentation.
+Beta testers who will provide us with some useful feedback, as well as those who help to improve our user documentation, will receive the rewards.
 
-We will also give rewards to people who help us with **translating the interface text**. If you want to help with that, please contact one of the admins on the Telegram channel.
+We will also reward people for helping us with the translation of the app interface. If you are eager to help, get in touch with our admins on the [Telegram channel](https://t.me/sikobaNetwork).
 
 ## Comments/feedback
 
