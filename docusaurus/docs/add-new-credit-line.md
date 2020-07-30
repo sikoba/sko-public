@@ -5,7 +5,7 @@ title: Add new credit line
 
 To add a new credit line:
 
-- Click on the ‘+’ button at the bottom of the credit lines screen.
+- Click on the <img src="assets/plus-icon.png" alt="plus icon" width="25" style="margin-bottom: -7px"/> button at the bottom of the credit lines screen.
 
 <img src="assets/add-cl1.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 

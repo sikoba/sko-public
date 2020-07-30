@@ -15,3 +15,5 @@ This screen shows you your user settings, you can:
 - Select your language
 - Logout
 - Show your [QR code](qr-codes.md)
+
+## Privacy level
