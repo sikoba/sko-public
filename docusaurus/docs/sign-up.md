@@ -14,10 +14,10 @@ sidebar_label: Sign up
 
 <img src="assets/signup2.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Enter your phone number (including the country code), your display name, email (optional) and Ethereum address (optional). Then tap *Next*
+- Select your country, enter city (optional), your display name (required), first name (required), last name (required), birthdate (required), your phone number including the country code (required), email (optional) and Ethereum address (optional). Then tap *Next*
 
-<img src="assets/signup3.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
-<img src="assets/signup4.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/personal-data1.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/personal-data2.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
 ## Cryptography
 
@@ -35,7 +35,8 @@ If you choose to store your master key on our server:
 
 - review all your data and tap *Create account*
 
-<img src="assets/signup7.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/review-signup1.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/review-signup2.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
 ## Full controll
 
@@ -61,4 +62,5 @@ If you choose to have a full control over your account:
 
 - Review all your account information and tap *Create account*
 
-<img src="assets/signup12.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/review-master-signup1.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/review-master-signup2.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
