@@ -20,3 +20,17 @@ To submit a transaction to Babble, run ```make send```.
 ## Verifying outputs
 
 To check the output(block data as received from Babble) in the app, check the nohup{n}.out files. Each app node's output will be written in a file.
+
+## Development
+
+To start an independent app process running, use the following command:
+``` docker run -it --name="app_dev" \
+    -v "$(pwd)"/docker-app/simple_server:/app
+    -p "500$i:500$i" \
+    -e BABBLE_HOST="0.0.0.0" \
+    -e BABBLE_PORT="500$i" \
+    simple_app bash ```
+
+To run tests independently of the main runtime setup, please use the Spec module of Crystal. 
+Some examples are already written there.
+To run tests, use the ```crystal spec``` command.

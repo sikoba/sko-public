@@ -3,3 +3,4 @@ babble_demo/nohup*
 babble_demo/docker-app/simple_server/bin
 babble_demo/docker-app/simple_server/lib
 babble_demo/conf
+babble_demo/docker-app/simple_server/blocks.sko

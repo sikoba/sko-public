@@ -7,6 +7,8 @@ port = ENV.fetch("BABBLE_PORT").to_i
 
 puts "Opening socket for Babble at #{host}:#{port}..."
 server = TCPServer.new(host, port)
+block_handler = BlockHandler.instance
+
 loop do
   server.accept do |client|
     message = client.gets # raw block data
@@ -21,10 +23,15 @@ loop do
     transactions.each do |tx_base64|
       # decode from base64
       tx_string = Base64.decode_string(tx_base64)
+
+      # TODO figure out which data is important and should be processed here
+
       pp! tx_string
     end
 
-    # store block data somewhere?
+    # Finally, write the block data.
+    block_data = "placeholder" # TODO determine block data
+    block_handler.write_block(block_data)
   end
 end
 
