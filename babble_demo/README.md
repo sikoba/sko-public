@@ -11,10 +11,12 @@ To start the setup, run ```make``` or ```make start```.
 
 To stop the whole setup once running, run ```make stop```.
 
-To send a dummy transaction, run ```make send```.
+To work at a finer granularity, i.e. start/stop the app/babble nodes individually, use the individual scripts in the scripts/ folder.
 
-To work at a finer granularity, i.e. start/stop the app/babble nodes individually, use the scripts in the scripts/ folder.
+## Sending transactions
+
+To submit a transaction to Babble, run ```make send```.
 
 ## Verifying outputs
 
-To check the output in the app, check the nohup{n}.out files. Each app node's output will be written in a file.
+To check the output(block data as received from Babble) in the app, check the nohup{n}.out files. Each app node's output will be written in a file.

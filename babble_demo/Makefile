@@ -28,6 +28,9 @@ restart:
 watch:
 	./scripts/watch.sh $(nodes)
 
+send:
+	./scripts/send_tx.sh 
+
 restart_app:
 	./scripts/stop-app.sh
 	./scripts/build-app.sh $(nodes)
