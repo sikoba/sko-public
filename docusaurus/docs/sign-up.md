@@ -29,7 +29,7 @@ You can choose to store your master key on [our server](sign-up.md#server-stored
 
 If you choose to store your master key on our server:
 
-- check *Server-tored* option and tap *Confirm*.
+- check *Server-stored* option and tap *Confirm*.
 
 <img src="assets/signup6.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
