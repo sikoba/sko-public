@@ -1,1 +1,4 @@
 /.github/actions/cmd.bat
+babble_demo/nohup*
+babble_demo/docker-app/simple_server/bin
+babble_demo/docker-app/simple_server/lib
