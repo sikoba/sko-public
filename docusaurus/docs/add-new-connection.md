@@ -14,7 +14,7 @@ To add a new connection:
 
   - Scan the QR code of the user that you want to connect to
 
-  - Or search a user by any searchable parameter: username, first name, last name, birthdate, phone number, email, city, Ethereum address. The parameter is searchable if a user defined a [privacy level](settings-screen.md#privacy-level) for this parameter as *Searchable*.  
+  - Or search a user by any [searchable parameter](vocabulary.md#searchable-parameter).  
   
   - And/Or enter the country name of the user that you want to connect to
 

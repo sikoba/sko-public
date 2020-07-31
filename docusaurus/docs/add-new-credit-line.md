@@ -9,9 +9,17 @@ To add a new credit line:
 
 <img src="assets/add-cl1.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Choose one of the existing connections you have or type in the username of the person who you want to grant a credit line to.
+- Then you can grant a credit line:
 
-<img src="assets/add-cl2.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+  - To a **single user** by choosing one of the existing connections you have
+
+  <img src="assets/add-cl-single-user.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+  - OR to **multiple users** by turning a switch to a Multiple user position and tapping checkboxes next to a respective connections. In this case a credit line with same parameters will be granted to all selected connections. Tap *Next*.
+
+  <img src="assets/add-cl-multiple-users.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+  *Hint*: a list of connections can be filtered by any [searchable parameter](vocabulary.md#searchable-parameter).
 
 - Choose the currency in which you want to grant a credit line.
 
@@ -27,13 +35,13 @@ To add a new credit line:
 
 - Enter the interest rate. This refers to an annualised interest rate.
 
-<img src="assets/add-cl6.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/add-cl-interest-rate.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
 - Enter a one-time fee amount in %. This is optional and should generally be set to 0%.
 
 <img src="assets/add-cl7.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Confirm the created credit line by pressing on the ‘Confirm’ button.
+- Confirm the created credit line by pressing on the *Confirm* button.
 
-<img src="assets/add-cl8.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/add-cl-confirm.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 <img src="assets/add-cl9.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
