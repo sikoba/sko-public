@@ -13,6 +13,10 @@ For that:
 
 <img src="assets/conversion-profile1.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
+- Click *Continue* on a Set conversion profile info screen.
+
+<img src="assets/setup-conversion-profile-info.JPG" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
 - Input the [global conversion maximum](vocabulary.md#global-conversion-max).
 
 <img src="assets/conversion-profile2.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
@@ -25,3 +29,5 @@ For that:
 
 <img src="assets/conversion-profile4.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 <img src="assets/conversion-profile5.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- You'll be prompted to [Grant a conversion permit](grant-conversion-permit.md)
