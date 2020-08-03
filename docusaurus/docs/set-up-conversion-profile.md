@@ -3,13 +3,15 @@ id: set-up-conversion-profile
 title: Set up conversion profile
 ---
 
-To grant a conversion permit:
+To enable a [credit conversion](vocabulary.md#credit-conversion) feature, a conversion profile for a specific credit line should be set. This is only done once per credit line, just before granting the first permit.
 
-- Click the ‘Grant Permit’ button in the credit line details screen.
+For that:
+
+- On a [credit lines screen](credit-lines-screen.md), choose a credit line for which you'd like to enable a credit conversion, and tap on it.
+
+- Click the *Grant Permit* button in the credit line details screen.
 
 <img src="assets/conversion-profile1.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
-
-- If the conversion profile has not been set, you will first need to do this. This is only done once per credit line, just before granting the first permit.
 
 - Input the [global conversion maximum](vocabulary.md#global-conversion-max).
 
