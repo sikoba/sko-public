@@ -15,15 +15,17 @@ A connection is a relation between two users; it can be sent from one user and a
 
 A credit line is a relation of trust from one user to another; it means that the user who sent the credit line offer(creditor), trusts the other user(debtor) for IOU payments.
 
-## (Credit) conversion
+## Credit conversion
 
 A credit conversion occurs when one user allows another to use his/her credit line to transact with all or part of his/her network. For example, A wants to buy something from C, but C does not trust A. If C trusts B, and B trusts A, and B enables credit conversion for C, then A can transact with C. As a result, A will owe B, and B will owe C.
 
-+ CHART
+Take a look at how this works:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQkar143isw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conversion profile
 
-Default settings for conversion for a credit line; has a global max. and a single max -- see below.
+Default settings for conversion for a credit line; has a [global max.](vocabulary.md#global-conversion-max) and a [single max.](vocabulary.md#single-conversion-max)
 
 ## Global conversion max
 
