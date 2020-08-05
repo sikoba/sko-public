@@ -5,7 +5,7 @@ title: Make payment
 
 To create a new payment:
 
-- Click on the ‘$’ button at the bottom of the balance screen.
+- Click on the <img src="assets/dollar-icon.png" alt="dollar icon" width="25" style="margin-bottom: -7px"/> button at the bottom of the [balance screen](home.md).
 
 <img src="assets/make-payment1.png" alt="make payment" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
