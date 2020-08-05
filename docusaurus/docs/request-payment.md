@@ -5,7 +5,7 @@ title: Request payment
 
 To request a payment from a user:
 
-- Click the ‘Request Payment’ button in the Balance screen.
+- Click the *Request Payment* button in the Balance screen.
 
 <img src="assets/request-payment1.png" alt="request payment" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
