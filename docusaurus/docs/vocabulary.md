@@ -51,6 +51,10 @@ Clearing Flexibility is about offsetting IOUs that have different payment target
 
 It is a cryptographic key for protection of other keys.
 
+## Privacy level
+
+PRIVACY LEVEL
+
 ## Searchable parameter
 
 The parameter is searchable if a user defined a [privacy level](settings-screen.md#privacy-level) for a parameter, by which he/she would like to be discovered, as *Searchable*. It can be display name, first name, last name, country, birthdate, phone number, email, city, Ethereum address.
