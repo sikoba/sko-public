@@ -3,13 +3,29 @@ id: change-phone-number
 title: Change phone number
 ---
 
-To change the phone number, you need to click on the ‘Change phone number’ button in the Settings screen.
+**NOTE**: if you change your phone number, you'll need to go through the [verification process](verify-phone-number.md) again.  
 
-<img src="assets/change-phone1.png" alt="change phone number" width="226" height="460" style="display: inline;"/>
-<img src="assets/change-phone2.png" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+To change the phone number:
 
-<img src="assets/change-phone3.png" alt="change phone number" width="226" height="460" style="display: inline;"/>
+- Click on the *Change phone number* button in the [Settings screen](settings-screen.md).
+
+<img src="assets/change-phone-number1.png" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- Click *Continue* on the next info screen.  
+
+<img src="assets/change-phone-number2.JPG" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- Enter your new phone number and tap *Next*.
+
+<img src="assets/change-phone3.png" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/change-phone-number3.JPG" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- Enter your password and tap *Next*.
+
 <img src="assets/change-phone4.png" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/change-phone-number4.JPG" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-<img src="assets/change-phone5.png" alt="change phone number" width="226" height="460" style="display: inline;"/>
+- Review the data and tap *Confirm*.
+
+<img src="assets/change-phone5.png" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 <img src="assets/change-phone6.png" alt="change phone number" width="226" height="460" style="display: inline; margin-left: 30px;"/>
