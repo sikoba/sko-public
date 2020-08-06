@@ -53,8 +53,9 @@ It is a cryptographic key for protection of other keys.
 
 ## Privacy level
 
-PRIVACY LEVEL
+The privacy level is a level of visibility of the user's data fields (display name, first name, last name, country, birthdate, phone number, email, city, Ethereum address) to other users. It can be:
 
-## Searchable parameter
-
-The parameter is searchable if a user defined a [privacy level](settings-screen.md#privacy-level) for a parameter, by which he/she would like to be discovered, as *Searchable*. It can be display name, first name, last name, country, birthdate, phone number, email, city, Ethereum address.
+- **private** - no other user can see this attribute
+- **searchable** - other users can find the user by this attribute, but they cannot directly see its value
+- **shared** - users that already have a connection active with the user can see the attribute value. Users that are not connected can search the user by this attribute, but cannot see its value
+- **visible** - all users can see this attribute

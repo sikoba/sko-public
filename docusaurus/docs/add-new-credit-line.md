@@ -19,7 +19,7 @@ To add a new credit line:
 
   <img src="assets/add-cl-multiple-users.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-  *Hint*: a list of connections can be filtered by any [searchable parameter](vocabulary.md#searchable-parameter).
+  *Hint*: a list of connections can be filtered by any [searchable parameter](vocabulary.md#privacy-level).
 
 - Choose the currency in which you want to grant a credit line.
 

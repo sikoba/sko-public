@@ -14,7 +14,7 @@ To add a new connection:
 
   - Scan the QR code of the user that you want to connect to
 
-  - Or search a user by any [searchable parameter](vocabulary.md#searchable-parameter).  
+  - Or search a user by any [searchable parameter](vocabulary.md#privacy-level).  
   
   - And/Or enter the country name of the user that you want to connect to
 
