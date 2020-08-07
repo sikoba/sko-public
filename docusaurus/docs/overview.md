@@ -21,7 +21,7 @@ Note that any transactions done during beta testing may be deleted from the syst
 3. Create connections and credit lines - connect with your business partners and friends, grant credit lines,
 decide who can use your credit lines.
 4. Test the app - pay or request payments, watch as credits and debits are cleared automatically.
-5. Send us a feedback - we are aware that the app is still far from perfect, so any feedback is very welcome!
+5. [Send us a feedback](overview.md#commentsfeedback) - we are aware that the app is still far from perfect, so any feedback is very welcome!
 
 Our main Telegram channel is [https://t.me/sikobaNetwork](https://t.me/sikobaNetwork).
 
