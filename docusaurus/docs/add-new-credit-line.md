@@ -29,7 +29,7 @@ To add a new credit line:
 
 <img src="assets/add-cl4.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Enter the time target. The Time target is the number of days after which the debtor will have to settle the debt.
+- Enter the [time target](vocabulary.md#time-target).
 
 <img src="assets/add-cl5.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 

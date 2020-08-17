@@ -15,6 +15,10 @@ A connection is a relation between two users; it can be sent from one user and a
 
 A credit line is a relation of trust from one user to another; it means that the user who sent the credit line offer(creditor), trusts the other user(debtor) for IOU payments.
 
+## Time target
+
+A time target is the number of days after which the debtor will have to settle the debt.
+
 ## Credit conversion
 
 A credit conversion occurs when one user allows another to use his/her credit line to transact with all or part of his/her network. For example, A wants to buy something from C, but C does not trust A. If C trusts B, and B trusts A, and B enables credit conversion for C, then A can transact with C. As a result, A will owe B, and B will owe C.
