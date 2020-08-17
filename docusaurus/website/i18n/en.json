@@ -92,6 +92,9 @@
         "title": "Signing up",
         "sidebar_label": "Sign up"
       },
+      "tokens": {
+        "title": "Sikoba Tokens"
+      },
       "verify-phone-number": {
         "title": "Verifying phone number",
         "sidebar_label": "Phone number verification"
@@ -112,7 +115,8 @@
       "Conversion permits": "Conversion permits",
       "Payments": "Payments",
       "Settings": "Settings",
-      "QR codes": "QR codes"
+      "QR codes": "QR codes",
+      "Sikoba Tokens": "Sikoba Tokens"
     }
   },
   "pages-strings": {

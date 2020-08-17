@@ -31,7 +31,7 @@ By tapping the balance amount at the top of the screen, you can scroll down and 
 
 ## SKS
 
-SKS tokens are needed for any transactions you take. For more details on SKS, check out the token section.
+SKS tokens are needed for any transactions you take. For more details on SKS, check out the [token section](tokens.md).
 
 ## Next settlements
 
