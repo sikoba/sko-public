@@ -13,7 +13,16 @@ A connection is a relation between two users; it can be sent from one user and a
 
 ## Credit line
 
-A credit line is a relation of trust from one user to another; it means that the user who sent the credit line offer(creditor), trusts the other user(debtor) for IOU payments.
+A credit line is a relation of trust from one user to another; it means that the user who sent the credit line offer (creditor), trusts the other user (debtor) for IOU payments.
+
+Users can grant credit lines to each other:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvkGNWAUu84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+Or users can grant one-way credit lines:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6U0YeNJfJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Time target
 
