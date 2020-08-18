@@ -60,6 +60,10 @@ Describes the extra fee that a granter of a permit can impose on all payments cr
 
 Clearing Flexibility is about offsetting IOUs that have different payment target dates. The higher the Flexibility, the more possibilities there are for clearing to occur.
 
+Take a look on how clearing works:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DR8NyJl1Sjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Master key
 
 It is a cryptographic key for protection of other keys.
