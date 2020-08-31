@@ -102,6 +102,12 @@
       "vocabulary": {
         "title": "Vocabulary"
       },
+      "web/change-password": {
+        "title": "Change Password"
+      },
+      "web/sign-in": {
+        "title": "Sign In"
+      },
       "web/sign-up": {
         "title": "Create New Account",
         "sidebar_label": "Sign up"

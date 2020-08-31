@@ -13,6 +13,6 @@
   },
   "web-docs": {
     "Getting Started": ["web/start", "vocabulary"],
-    "Authentication": ["web/sign-up", "web/verify-phone-number"]
+    "Authentication": ["web/sign-up", "web/verify-phone-number", "web/change-password", "web/sign-in"]
   }
 }
