@@ -6,7 +6,11 @@ sidebar_label: Sign up
 
 ## Personal data
 
-- Select a username, choose a password, repeat a password and enter your beta key (can be obtained by emailing betatesters@sikoba.com)
+- Enter:
+  - username - has to contain at least 6 characters
+  - choose password - must contain at least 8 characters, one lower case character and one upper case character
+  - repeat password
+  - your beta key (can be obtained by emailing betatesters@sikoba.com)
 
 <img src="assets/signup1.JPG" alt="sign up" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 

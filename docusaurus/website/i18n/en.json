@@ -102,9 +102,16 @@
       "vocabulary": {
         "title": "Vocabulary"
       },
+      "web/sign-up": {
+        "title": "Create New Account",
+        "sidebar_label": "Sign up"
+      },
       "web/start": {
         "title": "Getting started",
         "sidebar_label": "Welcome"
+      },
+      "web/verify-phone-number": {
+        "title": "Verify Phone Number"
       }
     },
     "links": {
