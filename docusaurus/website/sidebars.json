@@ -10,5 +10,8 @@
     "Settings": ["settings-screen", "change-user-preferences", "change-phone-number", "edit-profile"],
     "QR codes": ["qr-codes", "find-connection", "find-credit-line", "find-iou", "find-user"],
     "Sikoba Tokens": ["tokens"]
+  },
+  "web-docs": {
+    "Getting Started": ["web/start"]
   }
 }

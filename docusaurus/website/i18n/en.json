@@ -101,10 +101,15 @@
       },
       "vocabulary": {
         "title": "Vocabulary"
+      },
+      "web/start": {
+        "title": "Getting started",
+        "sidebar_label": "Welcome"
       }
     },
     "links": {
-      "Docs": "Docs"
+      "Mobile App Docs": "Mobile App Docs",
+      "Web App Docs": "Web App Docs"
     },
     "categories": {
       "Getting Started": "Getting Started",
