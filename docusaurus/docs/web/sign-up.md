@@ -1,7 +1,6 @@
 ---
 id: sign-up
 title: Create New Account
-sidebar_label: Sign up
 ---
 
 ## Personal data

@@ -106,11 +106,10 @@
         "title": "Change Password"
       },
       "web/sign-in": {
-        "title": "Sign In"
+        "title": "Log In"
       },
       "web/sign-up": {
-        "title": "Create New Account",
-        "sidebar_label": "Sign up"
+        "title": "Create New Account"
       },
       "web/start": {
         "title": "Getting started",
