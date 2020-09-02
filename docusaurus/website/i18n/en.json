@@ -108,8 +108,11 @@
       "web/dashboard": {
         "title": "Dashboard"
       },
+      "web/make-payment": {
+        "title": "Make Payment"
+      },
       "web/menu": {
-        "title": "web/menu"
+        "title": "Menu"
       },
       "web/request-payment": {
         "title": "Request Payment"
@@ -123,6 +126,9 @@
       "web/start": {
         "title": "Getting started",
         "sidebar_label": "Welcome"
+      },
+      "web/tokens": {
+        "title": "Tokens"
       },
       "web/verify-phone-number": {
         "title": "Verify Phone Number"

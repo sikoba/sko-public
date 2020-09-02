@@ -7,6 +7,7 @@ title: Menu screen
 
 The **menu** allows you to:
 
-- Open the [connections page](connections-screen.md)
-- Open the [credit lines page](credit-lines-screen.md)
-- Open the [settings page](settings-screen.md)
+- Open the [Balance screen](home.md)
+- Open the [Connections screen](connections-screen.md)
+- Open the [Credit lines screen](credit-lines-screen.md)
+- Open the [Settings screen](settings-screen.md)
