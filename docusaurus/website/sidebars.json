@@ -2,17 +2,18 @@
   "docs": {
     "Getting Started": ["overview", "vocabulary"],
     "Authentication": ["sign-up", "verify-phone-number", "change-password", "sign-in"],
-    "Main screens": ["home", "menu"],
+    "Main Screens": ["home", "menu"],
     "Connections": ["connections-screen", "add-new-connection"],
-    "Credit lines" : ["credit-lines-screen", "add-new-credit-line"],
-    "Conversion permits": ["set-up-conversion-profile", "grant-conversion-permit", "revoke-conversion-permit"],
+    "Credit Lines" : ["credit-lines-screen", "add-new-credit-line"],
+    "Conversion Permits": ["set-up-conversion-profile", "grant-conversion-permit", "revoke-conversion-permit"],
     "Payments": ["make-payment", "request-payment", "iou-settlement", "full-iou-settlement", "partial-iou-settlement"],
     "Settings": ["settings-screen", "change-user-preferences", "change-phone-number", "edit-profile"],
-    "QR codes": ["qr-codes", "find-connection", "find-credit-line", "find-iou", "find-user"],
+    "QR Codes": ["qr-codes", "find-connection", "find-credit-line", "find-iou", "find-user"],
     "Sikoba Tokens": ["tokens"]
   },
   "web-docs": {
     "Getting Started": ["web/start", "vocabulary"],
-    "Authentication": ["web/sign-up", "web/verify-phone-number", "web/change-password", "web/sign-in"]
+    "Authentication": ["web/sign-up", "web/verify-phone-number", "web/change-password", "web/sign-in"],
+    "Main Screens": ["web/dashboard", "web/menu"]
   }
 }

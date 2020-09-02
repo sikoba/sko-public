@@ -105,6 +105,15 @@
       "web/change-password": {
         "title": "Change Password"
       },
+      "web/dashboard": {
+        "title": "Dashboard"
+      },
+      "web/menu": {
+        "title": "web/menu"
+      },
+      "web/request-payment": {
+        "title": "Request Payment"
+      },
       "web/sign-in": {
         "title": "Log In"
       },
@@ -126,13 +135,13 @@
     "categories": {
       "Getting Started": "Getting Started",
       "Authentication": "Authentication",
-      "Main screens": "Main screens",
+      "Main Screens": "Main Screens",
       "Connections": "Connections",
-      "Credit lines": "Credit lines",
-      "Conversion permits": "Conversion permits",
+      "Credit Lines": "Credit Lines",
+      "Conversion Permits": "Conversion Permits",
       "Payments": "Payments",
       "Settings": "Settings",
-      "QR codes": "QR codes",
+      "QR Codes": "QR Codes",
       "Sikoba Tokens": "Sikoba Tokens"
     }
   },
