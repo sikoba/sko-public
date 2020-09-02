@@ -24,4 +24,3 @@ By clicking on a *Pending* connection you are taken to a screen where you can ch
 - **Reject** - When a connection is rejected, it prevents the sender of the request from sending additional connection requests to that user-- think of it as spam prevention. It can be reactivated by the rejecting user.
 
 <img src="assets/connections2.png" alt="connections" width="226" height="460" style="display: inline; margin-left: 30px;"/>
-

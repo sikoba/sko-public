@@ -102,8 +102,17 @@
       "vocabulary": {
         "title": "Vocabulary"
       },
+      "web/add-new-connection": {
+        "title": "web/add-new-connection"
+      },
       "web/change-password": {
         "title": "Change Password"
+      },
+      "web/connections-page": {
+        "title": "Connections page"
+      },
+      "web/credit-lines-page": {
+        "title": "web/credit-lines-page"
       },
       "web/dashboard": {
         "title": "Dashboard"
@@ -117,6 +126,9 @@
       "web/request-payment": {
         "title": "Request Payment"
       },
+      "web/settings-page": {
+        "title": "web/settings-page"
+      },
       "web/sign-in": {
         "title": "Log In"
       },
@@ -126,6 +138,9 @@
       "web/start": {
         "title": "Getting started",
         "sidebar_label": "Welcome"
+      },
+      "web/tokens-management-page": {
+        "title": "web/tokens-management-page"
       },
       "web/tokens": {
         "title": "Tokens"
