@@ -36,10 +36,18 @@ By clicking on an *Active* connection, you can see the following information abo
 
 If you don't have any running settlements with this connection, you can **cancel** it by clicking on the *Cancel* button.
 
+## Filter connections
+
+By clicking on the filter <img src="../assets/filter_icon.png" alt="filter icon" width="25" style="display: inline; margin: 0 0 -7px 0;"/> icon, all your connections can be filtered by:
+
+- status
+- and/or username
+
+<img src="../assets/web/connections4.JPG" alt="connections page image" />
+
 ## Additional operations
 
 You can also:
 
-- [Add a new connection](add-new-connection.md) by pressing on <img src="../assets/plus-icon.png" alt="plus icon" width="25" style="margin-bottom: -7px"/> button
+- [Add a new connection](add-new-connection.md) by pressing on <img src="../assets/plus-icon.png" alt="plus icon" width="25" style="margin-bottom: -7px;"/> button
 - [Open the menu](menu.md) by clicking on the Menu <img src="../assets/menu-icon.png" alt="menu icon" width="25" style="margin-bottom: -7px"/> icon
-
