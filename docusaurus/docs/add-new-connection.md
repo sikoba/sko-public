@@ -32,6 +32,6 @@ To add a new connection:
 <img src="assets/review-connection.JPG" alt="add connection" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 <img src="assets/add-connection4.png" alt="add connection" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- After a connection request sent, you'll see your new connection with *Pending* status 
+- After a connection request sent, you'll see your new connection with *Pending* status
   
 <img src="assets/connections.JPG" alt="add connection" width="226" height="460" style="display: inline; margin-left: 30px;"/>
