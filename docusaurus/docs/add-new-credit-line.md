@@ -15,7 +15,7 @@ To add a new credit line:
 
   <img src="assets/add-cl-single-user.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-  - OR to **multiple users** by turning a switch to a Multiple user position and tapping checkboxes next to a respective connections. In this case a credit line with same parameters will be granted to all selected connections. Tap *Next*.
+  - OR to **multiple users** by turning a switch to a Multiple user position and tapping checkboxes next to respective connections. In this case a credit line with the same parameters will be granted to all selected connections. Tap *Next*.
 
   <img src="assets/add-cl-multiple-users.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
@@ -33,7 +33,7 @@ To add a new credit line:
 
 <img src="assets/add-cl5.png" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Enter the interest rate. This refers to an annualised interest rate.
+- Enter the interest rate. This refers to an annualized interest rate.
 
 <img src="assets/add-cl-interest-rate.JPG" alt="add credit line" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
