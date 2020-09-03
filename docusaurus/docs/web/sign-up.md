@@ -44,7 +44,7 @@ If you choose to store your master key on our server:
 
 ## Full controll
 
-If you choose to have a full control over your account:
+If you choose to have full control over your account:
 
 - check *Full control* option and click *See master key*
 
@@ -59,3 +59,11 @@ If you choose to have a full control over your account:
   - Enter a master key password (must contain at least 8 characters, one lower case character and one upper case character), repeat it and click *Confirm*.
 
   <img src="../assets/web/sign-up8.JPG" alt="sign up" />
+
+  - Confirm that you have written down the twelve words.
+
+    <img src="../assets/web/sign-up9.JPG" alt="sign up" />
+
+  - review all your data and click *Create account*
+
+<img src="../assets/web/sign-up5.JPG" alt="sign up" />
