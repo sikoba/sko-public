@@ -25,7 +25,7 @@ For that:
 
 <img src="assets/conversion-profile3.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- Confirm the created conversion profile by pressing on the ‘Confirm’ button.
+- Confirm the created conversion profile by pressing on the *Confirm* button.
 
 <img src="assets/conversion-profile4.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 <img src="assets/conversion-profile5.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>

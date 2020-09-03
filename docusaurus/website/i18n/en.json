@@ -120,6 +120,9 @@
       "web/dashboard": {
         "title": "Dashboard"
       },
+      "web/grant-conversion-permit": {
+        "title": "Grant conversion permit"
+      },
       "web/make-payment": {
         "title": "Make Payment"
       },
@@ -128,6 +131,12 @@
       },
       "web/request-payment": {
         "title": "Request Payment"
+      },
+      "web/revoke-conversion-permit": {
+        "title": "Revoke conversion permit"
+      },
+      "web/set-up-conversion-profile": {
+        "title": "Setup conversion profile"
       },
       "web/settings-page": {
         "title": "web/settings-page"
