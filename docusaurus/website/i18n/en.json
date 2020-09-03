@@ -105,6 +105,9 @@
       "web/add-new-connection": {
         "title": "Add new connection"
       },
+      "web/add-new-credit-line": {
+        "title": "Add new credit line"
+      },
       "web/change-password": {
         "title": "Change Password"
       },
@@ -112,7 +115,7 @@
         "title": "Connections page"
       },
       "web/credit-lines-page": {
-        "title": "web/credit-lines-page"
+        "title": "Credit lines page"
       },
       "web/dashboard": {
         "title": "Dashboard"
