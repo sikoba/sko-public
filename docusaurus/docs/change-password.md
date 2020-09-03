@@ -9,7 +9,7 @@ To change a password:
 
 <img src="assets/change-pass1.png" alt="change password" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- In order to change your password, confirm your username by typing your handle or your email address. Tap *Continue*.
+- In order to change your password, confirm your username by typing your username. Tap *Continue*.
 
 <img src="assets/change-pass2.png" alt="change password" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 

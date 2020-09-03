@@ -9,7 +9,7 @@ To change a password:
 
 <img src="../assets/web/change-password1.png" alt="change password" />
 
-- In order to change your password, confirm your username by typing your username or your email address. Click *CONTINUE*.
+- In order to change your password, confirm your username by typing your username. Click *CONTINUE*.
 
 <img src="../assets/web/change-password2.JPG" alt="change password" />
 
