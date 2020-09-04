@@ -3,11 +3,13 @@ id: grant-conversion-permit
 title: Grant a conversion permit
 ---
 
+**NOTE: a [conversion permit](vocabulary.md#conversion-permit) can be granted only for the connection (another user) to whom you have opened a credit line.**
+
 To grant a [conversion permit](vocabulary.md#conversion-permit):
 
 - *If you are granting a permit right after setting up a conversion profile, please skip this step.*
 
-   On a [credit lines screen](credit-lines-screen.md), select a needed credit line, tap on it, then click the *Grant Permit* button in the credit line details screen.
+   On a [credit lines screen](credit-lines-screen.md), select a needed credit line with an *Active* status, tap on it, then click the *Grant Permit* button in the credit line details screen.
 
 <img src="assets/conversion-profile1.png" alt="conversion profile" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 

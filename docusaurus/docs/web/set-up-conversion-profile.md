@@ -3,6 +3,8 @@ id: set-up-conversion-profile
 title: Setup conversion profile
 ---
 
+**NOTE: a [credit conversion](vocabulary.md#credit-conversion) can be enabled only for credit lines that are opened FOR you (you can pay to another user).**
+
 To enable a [credit conversion](vocabulary.md#credit-conversion) feature, a conversion profile for a specific credit line should be set. This is only done once per credit line, just before granting the first permit.
 
 For that:
