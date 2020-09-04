@@ -9,7 +9,7 @@ To enable a [credit conversion](vocabulary.md#credit-conversion) feature, a conv
 
 For that:
 
-- On a [credit lines page](credit-lines-page.md), choose a credit line for which you'd like to enable a credit conversion, and tap on it.
+- On a [credit lines page](credit-lines-page.md), choose a credit line for which you'd like to enable a credit conversion, and click on it.
 
 - Click the *Enable conversion* button on the Conversion tab
 
