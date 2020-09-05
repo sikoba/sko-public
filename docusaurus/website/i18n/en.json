@@ -120,14 +120,23 @@
       "web/dashboard": {
         "title": "Dashboard"
       },
+      "web/full-iou-settlement": {
+        "title": "Full IOU settlement"
+      },
       "web/grant-conversion-permit": {
         "title": "Grant conversion permit"
+      },
+      "web/iou-settlement": {
+        "title": "IOU settlement"
       },
       "web/make-payment": {
         "title": "Make Payment"
       },
       "web/menu": {
         "title": "Menu"
+      },
+      "web/partial-iou-settlement": {
+        "title": "Partial IOU settlement"
       },
       "web/request-payment": {
         "title": "Request Payment"
