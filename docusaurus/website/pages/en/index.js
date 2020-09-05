@@ -46,10 +46,86 @@ class HomeSplash extends React.Component {
       </div>
     );
 
+    const TextCenter = (props) => (
+      <div className="text-center">{props.children}</div>
+    );
+
     return (
       <SplashContainer>
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
+          <h1>Welcome Betatesters!</h1>
+          <TextCenter>
+            Beta testing of the sikobaPay app started in early April 2020. It
+            was interrupted briefly because of technical problems and resumed on
+            12th May for Android and on 17th May for iOS.
+          </TextCenter>
+          <TextCenter>
+            Obviously, testing sikobaPay only makes sense if you know other
+            users, so please make sure to invite people you know. You can also
+            join the
+            <a href="https://t.me/sikobaPay_BETATESTERS" target="_blank">
+              {" "}
+              betatesters Telegram channel
+            </a>{" "}
+            where you can find other users to connect with. Also please join our{" "}
+            <a href="https://t.me/sikobaNetwork" target="_blank">
+              {" "}
+              main Telegram channel.
+            </a>
+          </TextCenter>
+          <TextCenter>
+            Note that any transactions done during beta testing may be deleted
+            from the system at some stage in the future.
+          </TextCenter>
+
+          <h2>Download sikobaPay app</h2>
+          <a
+            href="https://play.google.com/store/apps/details?id=com.sikoba.dev&hl=en"
+            target="_blank"
+          >
+            <img src={`${baseUrl}img/google.png`} width="200px" />
+          </a>
+          <a href="https://testflight.apple.com/join/QHSIF1HF" target="_blank">
+            <img src={`${baseUrl}img/apple.png`} width="200px" />
+          </a>
+          <div>
+            <i>
+              Note for iOS app: you may need to install the TestFlight app
+              first.
+            </i>
+          </div>
+
+          <h2>Test sikobaPay web app</h2>
+          <Button style={{width: "200px"}}>Web App</Button>
+
+          <h2>Rewards</h2>
+          <TextCenter>
+            Beta testers who will provide us with some useful feedback, as well
+            as those who help to improve our user documentation, will receive
+            the rewards.
+          </TextCenter>
+          <TextCenter>
+            We will also reward people for helping us with the translation of
+            the app interface. If you are eager to help, get in touch with our
+            admins on the{" "}
+            <a href="https://t.me/sikobaNetwork" target="_blank">
+              {" "}
+              Telegram channel.
+            </a>
+          </TextCenter>
+
+          <h2>Comments/feedback</h2>
+          <TextCenter>
+            Add your comments/feedback{" "}
+            <a
+              href="https://docs.google.com/document/d/1s1GlLayWrfCgDMhhaJDYvfQgqExMekCaLeluI8udjhE/edit#heading=h.t1z67zjewsrt"
+              target="_blank"
+            >
+              here
+            </a>{" "}
+            or send an email to <b>feedback@sikoba.com</b>.
+          </TextCenter>
           <PromoSection>
             <Button href={docUrl("overview.html")}>Mobile App Docs</Button>
             <Button href={docUrl("web/start.html")}>Web App Docs</Button>

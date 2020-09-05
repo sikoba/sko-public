@@ -111,6 +111,9 @@
       "web/change-password": {
         "title": "Change Password"
       },
+      "web/change-phone-number": {
+        "title": "Change Phone Number"
+      },
       "web/connections-page": {
         "title": "Connections page"
       },
@@ -119,6 +122,9 @@
       },
       "web/dashboard": {
         "title": "Dashboard"
+      },
+      "web/edit-profile": {
+        "title": "Edit Profile"
       },
       "web/full-iou-settlement": {
         "title": "Full IOU settlement"
