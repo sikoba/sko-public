@@ -12,7 +12,7 @@
     "Sikoba Tokens": ["tokens"]
   },
   "web-docs": {
-    "Getting Started": ["web/start", "vocabulary"],
+    "Getting Started": ["web/start", "web/vocabulary"],
     "Authentication": ["web/sign-up", "web/verify-phone-number", "web/change-password", "web/sign-in"],
     "Main Screens": ["web/dashboard", "web/menu"],
     "Connections": ["web/connections-page", "web/add-new-connection"],
