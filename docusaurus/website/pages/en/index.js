@@ -54,6 +54,10 @@ class HomeSplash extends React.Component {
       <SplashContainer>
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
+          <PromoSection>
+            <Button href={docUrl("overview.html")}>Mobile App Docs</Button>
+            <Button href={docUrl("web/start.html")}>Web App Docs</Button>
+          </PromoSection>
           <h1>Welcome Betatesters!</h1>
           <TextCenter>
             Beta testing of the sikobaPay app started in early April 2020. It
@@ -79,7 +83,7 @@ class HomeSplash extends React.Component {
             from the system at some stage in the future.
           </TextCenter>
 
-          <h2>Download sikobaPay app</h2>
+          <h2>Download sikobaPay mobile app</h2>
           <a
             href="https://play.google.com/store/apps/details?id=com.sikoba.dev&hl=en"
             target="_blank"
@@ -97,7 +101,17 @@ class HomeSplash extends React.Component {
           </div>
 
           <h2>Test sikobaPay web app</h2>
-          <Button style={{width: "200px"}}>Web App</Button>
+          <div style={{ marginBottom: "7vh" }}>
+            <Button>Web App</Button>
+          </div>
+
+          <TextCenter>
+            <b style={{ fontSize: "1.5rem" }}>IMPORTANT: </b>To participate in
+            beta testing, you need a <b>beta key</b>. This can be obtained
+            easily just by sending an email (with any content, even an empty
+            email will do) to{" "}
+            <a href="mailto: betatesters@sikoba.com">betatesters@sikoba.com</a>.
+          </TextCenter>
 
           <h2>Rewards</h2>
           <TextCenter>
@@ -124,7 +138,8 @@ class HomeSplash extends React.Component {
             >
               here
             </a>{" "}
-            or send an email to <b>feedback@sikoba.com</b>.
+            or send an email to{" "}
+            <a href="mailto: feedback@sikoba.com">feedback@sikoba.com</a>.
           </TextCenter>
           <PromoSection>
             <Button href={docUrl("overview.html")}>Mobile App Docs</Button>
