@@ -19,6 +19,7 @@
     "Credit Lines" : ["web/credit-lines-page", "web/add-new-credit-line"],
     "Conversion Permits": ["web/set-up-conversion-profile", "web/grant-conversion-permit", "web/revoke-conversion-permit"],
     "Payments": ["web/make-payment", "web/iou-settlement", "web/full-iou-settlement", "web/partial-iou-settlement"],
-    "Settings": ["web/settings-page", "web/edit-profile", "web/change-phone-number"]
+    "Settings": ["web/settings-page", "web/edit-profile", "web/change-phone-number"],
+    "Sikoba Tokens": ["web/tokens"]
   }
 }
