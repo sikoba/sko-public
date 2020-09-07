@@ -6,7 +6,7 @@ hide_title: true
 
 ## Edit profile
 
-To change any user data, such as:
+To change any user data displayed on the [Settings page](settings-page.md), such as:
 
 - display name
 - first name
