@@ -72,6 +72,9 @@
       "qr-codes": {
         "title": "QR codes"
       },
+      "register-device": {
+        "title": "Register a new device"
+      },
       "request-payment": {
         "title": "Request payment"
       },

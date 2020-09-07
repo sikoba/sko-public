@@ -1,7 +1,7 @@
 {
   "docs": {
     "Getting Started": ["overview", "vocabulary"],
-    "Authentication": ["sign-up", "verify-phone-number", "change-password", "sign-in"],
+    "Authentication": ["sign-up", "verify-phone-number", "change-password", "sign-in", "register-device"],
     "Main Screens": ["home", "menu"],
     "Connections": ["connections-screen", "add-new-connection"],
     "Credit Lines" : ["credit-lines-screen", "add-new-credit-line"],
