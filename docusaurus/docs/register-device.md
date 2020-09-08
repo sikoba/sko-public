@@ -6,8 +6,6 @@ hide_title: true
 
 ## Register a new device
 
-When you try to log in under your credentials using a new device (not the one that you used when creating an account), you need to register this new device first.
-
 To do so:
 
 - enter your username and password on the [Sign in screen](sign-in.md) and tap *Sign in* button.
@@ -19,6 +17,8 @@ To do so:
   - or using your [master key](vocabulary.md#master-key) - tap on the *Master key* option
 
 <img src="assets/register-device1.JPG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+**NOTE**: you can [de-register](de-register-device.md) your new device at anytime.
 
 ## Register with another registered device
 
