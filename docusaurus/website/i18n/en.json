@@ -28,6 +28,9 @@
       "credit-lines-screen": {
         "title": "Credit lines screen"
       },
+      "de-register-device": {
+        "title": "De-register device"
+      },
       "edit-profile": {
         "title": "Edit profile"
       },
@@ -71,6 +74,9 @@
       },
       "qr-codes": {
         "title": "QR codes"
+      },
+      "read-only": {
+        "title": "Read-only mode"
       },
       "register-device": {
         "title": "Register a new device"

@@ -10,6 +10,6 @@ To sign in, enter your:
 
 - Username
 - Password
-- Click *Sign In*
+- Click *Login*
 
 ![signing](assets/sign-in.gif)

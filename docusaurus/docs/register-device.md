@@ -8,7 +8,7 @@ hide_title: true
 
 To do so:
 
-- enter your username and password on the [Sign in screen](sign-in.md) and tap *Sign in* button.
+- enter your username and password on the [Sign in screen](sign-in.md) and tap *Login* button.
 
 <img src="assets/register-device2.JPG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
@@ -18,7 +18,7 @@ To do so:
 
 <img src="assets/register-device1.JPG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-**NOTE**: you can [de-register](de-register-device.md) your new device at anytime.
+**NOTE**: you can [de-register](de-register-device.md) any of your devices at any time.
 
 ## Register with another registered device
 
@@ -29,6 +29,8 @@ If you choose to register your new device with another registered device, the ap
 To scan this QR-code:
 
 - open sikobaPay app on your registered device and tap on the QR code icon <img src="assets/qr-code.png" alt="qr-code icon" width="20" style="margin-bottom: -3px; background: black; "/> in bottom right corner of the [Balance screen](home.md).
+
+**IMPORTANT**: you should be logged in under the same credentials on both devices: the one that you are using as a registered device and the second that you'd like to register.
 
 <img src="assets/register-device4.png" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
