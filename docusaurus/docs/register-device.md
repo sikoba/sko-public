@@ -26,9 +26,18 @@ If you choose to register your new device with another registered device, the ap
 
 <img src="assets/register-device3.JPG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-To scan this QR-code, open sikobaPay app on your registered device and tap on the QR code icon <img src="assets/qr-code.png" alt="qr-code icon" width="20" style="margin-bottom: -3px; background: black; "/> in bottom right corner of the [Balance screen](home.md).
+To scan this QR-code:
+
+- open sikobaPay app on your registered device and tap on the QR code icon <img src="assets/qr-code.png" alt="qr-code icon" width="20" style="margin-bottom: -3px; background: black; "/> in bottom right corner of the [Balance screen](home.md).
 
 <img src="assets/register-device4.png" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- scan the QR-code and tap *Confirm* button
+
+<img src="assets/register-device6.PNG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/register-device7.PNG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+Now you can log in on your new device and use the app.
 
 ## Register with your master key
 
