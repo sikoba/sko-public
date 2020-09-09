@@ -10,9 +10,9 @@ hide_title: true
 
 This page displays:
 
-- Your current balance
-- Allows you to [request a payment](request-payment.md)
-- Shows your next settlements
+- Your [current balance](#balance)
+- Shows your [next settlements](#next-settlements)
+- Available [SKS tokens](#sks)
 
 You can also:
 
