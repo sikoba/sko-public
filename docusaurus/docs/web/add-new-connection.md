@@ -11,7 +11,7 @@ To add a new connection:
 
 - Then you can then either:
 
-  - Enter the username of the user you want to connect to
+  - Find a user by entering a username, email, or any other [searchable parameter](vocabulary.md#privacy-level) of the user you want to connect to
   - And/Or find users by country
 
 <img src="../assets/web/add-connection2.JPG" alt="add connection image" />
