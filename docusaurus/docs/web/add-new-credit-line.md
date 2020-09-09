@@ -19,7 +19,7 @@ To add a new credit line:
 
   <img src="../assets/web/add-cl3.JPG" alt="add credit line page image" />
 
-  *Hint*: a list of connections can be filtered by any [searchable parameter](vocabulary.md#privacy-level).
+  *Hint*: a connection can be found by entering a username in the search field.
 
   - Click *Next* button
 
