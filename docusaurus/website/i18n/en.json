@@ -132,6 +132,9 @@
       "web/dashboard": {
         "title": "Dashboard"
       },
+      "web/de-register-device": {
+        "title": "De-register device"
+      },
       "web/edit-profile": {
         "title": "Edit Profile"
       },
@@ -152,6 +155,12 @@
       },
       "web/partial-iou-settlement": {
         "title": "Partial IOU settlement"
+      },
+      "web/read-only": {
+        "title": "Read-only mode"
+      },
+      "web/register-device": {
+        "title": "Register a new device"
       },
       "web/request-payment": {
         "title": "Request Payment"

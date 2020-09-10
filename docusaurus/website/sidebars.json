@@ -13,7 +13,7 @@
   },
   "web-docs": {
     "Getting Started": ["web/start", "web/vocabulary"],
-    "Authentication": ["web/sign-up", "web/verify-phone-number", "web/change-password", "web/sign-in"],
+    "Authentication": ["web/sign-up", "web/verify-phone-number", "web/change-password", "web/sign-in", "web/register-device", "web/de-register-device", "web/read-only"],
     "Main Screens": ["web/dashboard", "web/menu"],
     "Connections": ["web/connections-page", "web/add-new-connection"],
     "Credit Lines" : ["web/credit-lines-page", "web/add-new-credit-line"],
