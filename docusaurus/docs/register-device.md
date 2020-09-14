@@ -12,11 +12,19 @@ To do so:
 
 <img src="assets/register-device2.JPG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
-- then you'll see an info screen that this device is not registered. You can register the device by choosing one of the options:
+- then you'll see an info screen that this device is not registered. You can choose to:
+  - register your device
+  - OR continue to use the device in a [read-only mode](read-only.md)
+
+<img src="assets/register-device1.PNG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+
+- tap *Register*
+
+- you can register the device by choosing one of the options:
   - using another **registered** device - tap on the *Device* option
   - or using your [master key](vocabulary.md#master-key) - tap on the *Master key* option
 
-<img src="assets/register-device1.JPG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/register-device2.PNG" alt="register device screen" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
 **NOTE**: you can [de-register](de-register-device.md) any of your devices at any time.
 
