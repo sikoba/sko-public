@@ -102,7 +102,7 @@ class HomeSplash extends React.Component {
 
           <h2>Test sikobaPay web app</h2>
           <div style={{ marginBottom: "7vh" }}>
-            <Button>Web App</Button>
+            <Button href="http://web.sikoba.com/">Web App</Button>
           </div>
 
           <TextCenter>

@@ -7,7 +7,7 @@ sidebar_label: Welcome
 ## How Beta Testing Works
 
 1. Send an email to betatesters@sikoba.com - you will receive a beta key in return.
-2. [Open the app]() and [create your account](sign-up.md) - you will register using your mobile phone number.
+2. [Open the app](http://web.sikoba.com/) and [create your account](sign-up.md) - you will register using your mobile phone number.
 3. [Create connections](add-new-connection.md) and [credit lines](add-new-credit-line.md) - connect with your business partners and friends, grant credit lines,
 decide who can use your credit lines.
 4. Test the app - [make payments](make-payment.md), watch as credits and debits are cleared automatically.
