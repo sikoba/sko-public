@@ -31,6 +31,12 @@ watch:
 send:
 	./scripts/send_tx.sh 
 
+add:
+	./scripts/build-node.sh
+	./scripts/build-new_app.sh
+	./scripts/run-newtest.sh
+	./scripts/run-newapp.sh
+
 restart_app:
 	./scripts/stop-app.sh
 	./scripts/build-app.sh $(nodes)
