@@ -37,6 +37,9 @@ add:
 	./scripts/run-newtest.sh
 	./scripts/run-newapp.sh
 
+del:
+	./scripts/stop_node.sh
+
 restart_app:
 	./scripts/stop-app.sh
 	./scripts/build-app.sh $(nodes)

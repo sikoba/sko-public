@@ -34,3 +34,11 @@ To start an independent app process running, use the following command:
 To run tests independently of the main runtime setup, please use the Spec module of Crystal. 
 Some examples are already written there.
 To run tests, use the ```crystal spec``` command.
+
+## Adding a node
+
+To add a new node, run ```make add```
+
+## Deleting a node
+
+To delete a node, run ```make del```
