@@ -8,7 +8,7 @@ start:
 	./scripts/build-conf.sh $(nodes)
 	./scripts/build-app.sh $(nodes)
 	./scripts/run-testnet.sh $(nodes)
-	./scripts/run-app-nodes.sh
+	./scripts/run-app-nodes.sh $(nodes)
 
 stop:
 	./scripts/stop-app.sh
@@ -45,4 +45,4 @@ restart_app:
 	./scripts/build-app.sh $(nodes)
 	./scripts/run-app-nodes.sh
 
-# .PHONY :  all build_babble  start watch stop 
+.PHONY: all start watch stop restart send add del restart_app 

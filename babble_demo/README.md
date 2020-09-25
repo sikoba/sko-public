@@ -42,3 +42,7 @@ To add a new node, run ```make add```
 ## Deleting a node
 
 To delete a node, run ```make del```
+
+## Running the setup with n nodes
+
+To run the setup with n nodes, open the Makefile and nodes = n (ln 1)
