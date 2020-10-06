@@ -25,7 +25,7 @@ To add a new connection:
 
 - Choose the user that you want to connect to from a list of users with matching data and tap on it
 
-<img src="assets/receiver3.JPG" alt="add connection" width="226" height="460" style="display: inline; margin-left: 30px;"/>
+<img src="assets/receiver2.JPG" alt="add connection" width="226" height="460" style="display: inline; margin-left: 30px;"/>
 
 - Review the data and tap *Confirm*
 
