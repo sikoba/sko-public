@@ -9,11 +9,11 @@ A promise of delayed payment; an IOU of 50 EUR at 30 days means that the debtor 
 
 ## Connection
 
-A connection is a relation between two users; it can be sent from one user and answered by another user; once accepted, the uses are connected and they can grant each other credit lines.
+A connection means that two users **know** each other **and might be willing to transact with each other on credit**. A connection request initiated by one user **must be** accepted by the other user for the connection to become effective.
 
 ## Credit line
 
-A credit line is a relation of trust from one user to another; it means that the user who sent the credit line offer (creditor), trusts the other user (debtor) for IOU payments.
+A credit line represents a relationship of trust in which one user enables another user to pay with an IOU. Each credit line is configurable individually: you can select a preferred currency, set the maximum amount you are willing to be owed, determine the repayment target and interest rate.
 
 Users can grant credit lines to each other:
 
@@ -30,7 +30,7 @@ A time target is the number of days after which the debtor will have to settle t
 
 ## Credit conversion
 
-A credit conversion occurs when one user allows another to use his/her credit line to transact with all or part of his/her network. For example, A wants to buy something from C, but C does not trust A. If C trusts B, and B trusts A, and B enables credit conversion for C, then A can transact with C. As a result, A will owe B, and B will owe C.
+Credit conversion occurs when one user enables another user to use his/her credit line to transact with his/her network. For example, A wants to buy something from C, but C does not trust A. If C trusts B, and B trusts A, and B enables credit conversion for A, then A can transact with C. As a result, A will owe B, and B will owe C.
 
 Take a look at how this works:
 
