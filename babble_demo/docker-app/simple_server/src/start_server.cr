@@ -15,7 +15,6 @@ loop do
   server.accept do |client|
     message = client.gets # raw block data
     pp! message
-
     # TODO process received message from Babble below
     begin
       json = JSON.parse(message.as(String))  
@@ -59,7 +58,7 @@ loop do
       puts block_handler
       z +=1
     rescue exception
-      
+      client.send("OK")
     end
 
     
