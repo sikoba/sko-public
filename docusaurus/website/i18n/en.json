@@ -111,6 +111,9 @@
       "vocabulary": {
         "title": "Vocabulary"
       },
+      "web/activity-log": {
+        "title": "Activity log"
+      },
       "web/add-new-connection": {
         "title": "Add new connection"
       },
@@ -211,7 +214,8 @@
       "Payments": "Payments",
       "Settings": "Settings",
       "QR Codes": "QR Codes",
-      "Sikoba Tokens": "Sikoba Tokens"
+      "Sikoba Tokens": "Sikoba Tokens",
+      "Activity Log": "Activity Log"
     }
   },
   "pages-strings": {
