@@ -6,7 +6,7 @@ all :
 	crystal run $(SRC)
 
 web :
-	$(shell cd website && php -S localhost:8000)
+	$(shell cd webpage && php -S localhost:8000)
 
 clean :
 	rm -rf *.json
