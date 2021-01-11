@@ -60,14 +60,8 @@ class HomeSplash extends React.Component {
           </PromoSection>
           <h1>Welcome Betatesters!</h1>
           <TextCenter>
-            Beta testing of the sikobaPay app started in early April 2020. It
-            was interrupted briefly because of technical problems and resumed on
-            12th May for Android and on 17th May for iOS.
-          </TextCenter>
-          <TextCenter>
-            Obviously, testing sikobaPay only makes sense if you know other
-            users, so please make sure to invite people you know. You can also
-            join the
+            Testing sikobaPay only makes sense if you know other users, so
+            please make sure to invite people you know. You can also join the
             <a href="https://t.me/sikobaPay_BETATESTERS" target="_blank">
               {" "}
               betatesters Telegram channel
