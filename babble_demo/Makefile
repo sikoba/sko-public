@@ -8,7 +8,7 @@ start:
 	./scripts/build-conf.sh $(nodes)
 	./scripts/build-app.sh $(nodes)
 	./scripts/run-testnet.sh $(nodes)
-	./scripts/run-app-nodes.sh
+	./scripts/run-app-nodes.sh $(nodes)
 
 stop:
 	./scripts/stop-app.sh
@@ -31,9 +31,18 @@ watch:
 send:
 	./scripts/send_tx.sh 
 
+add:
+	./scripts/build-node.sh
+	./scripts/build-new_app.sh
+	./scripts/run-newtest.sh
+	./scripts/run-newapp.sh
+
+del:
+	./scripts/stop_node.sh
+
 restart_app:
 	./scripts/stop-app.sh
 	./scripts/build-app.sh $(nodes)
 	./scripts/run-app-nodes.sh
 
-# .PHONY :  all build_babble  start watch stop 
+.PHONY: all start watch stop restart send add del restart_app 

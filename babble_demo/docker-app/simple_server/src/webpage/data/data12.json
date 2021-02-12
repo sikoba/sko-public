@@ -1,0 +1,24 @@
+
+hash : 56c95bda4ec84ca65fdf5bea5310c3c89fe185976153b73ec6395ef83a4aa950
+Block numero : 26
+nombre de transactions dans ce block: 1
+Taille transactions du block numéro 26 : 298
+tx merkle root : 1c213ccd83c36d5d652aa936c888ac59a3504bdadfa6160f980bf629a9cdf3df
+"{type:\"SendConnection\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+
+hash : 4a4e4faad7198d34d95e1d4e14f733f6bc1ad8fe7dd6d30be8198c6c32e4a4be
+Block numero : 27
+nombre de transactions dans ce block: 11
+Taille transactions du block numéro 27 : 3305
+tx merkle root : 1cf92d61c3e253c870bc90c01de300df02b40f42d80ce55e541bf066eac14d53
+"{type:\"CreateCreditLine\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"

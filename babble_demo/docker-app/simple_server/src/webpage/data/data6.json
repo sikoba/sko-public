@@ -1,0 +1,37 @@
+
+hash : dd6d75acacfb19aa2c6e31cbffadccb09e94df0029ffb0c806ea1f80a9219ec9
+Block numero : 12
+nombre de transactions dans ce block: 4
+Taille transactions du block numéro 12 : 1195
+tx merkle root : 31cc96f0c6778007ca20439b82af9de8b0944306a8107fdd1f078688287b0681
+"{type:\"SendConnection\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+
+hash : 36979acfcbdefcbf97d0205c1bf43bb9e4fb12631b5c95464093d52f8259d4a1
+Block numero : 13
+nombre de transactions dans ce block: 6
+Taille transactions du block numéro 13 : 1786
+tx merkle root : 70e8b62e9b753a793da7eaa19dbd28ae50bb00a364cbae296e73f3058b566fc4
+"{type:\"CreateCreditLine\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+
+hash : 398c423f4866d88103cbeb7d2b91294d8e7a41cff2a45bbdc4d3b7425abc572c
+Block numero : 14
+nombre de transactions dans ce block: 9
+Taille transactions du block numéro 14 : 2708
+tx merkle root : b2024ffaed6f1337944e8c53d95820bed0fe6fd651ee7d091d8e7830706bb5e2
+"{type:\"SendConnection\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"

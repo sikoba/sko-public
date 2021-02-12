@@ -1,0 +1,24 @@
+
+hash : 5fe02dd92968641ca01fa58124889a40d3f100fa959ef9ae17912fba2f670f91
+Block numero : 22
+nombre de transactions dans ce block: 11
+Taille transactions du block numéro 22 : 3293
+tx merkle root : 0847138853e80f90874482d03f45972ff8429d14012da9df4c6611364e33d9d1
+"{type:\"MakePayment\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"MakePayment\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"SendConnection\",details:{sender:\"Alice\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+"{type:\"CreateCreditLine\",details:{sender:\"Bob\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
+
+hash : f6ae57320d31099187f884ed19442d68f01c9b669957848c5479c85f466f0f91
+Block numero : 23
+nombre de transactions dans ce block: 1
+Taille transactions du block numéro 23 : 299
+tx merkle root : b9083901c6b21af2cc2e7e7aee8d75a0acc3b01e42928d625e1cd361f5c2cf52
+"{type:\"MakePayment\",details:{sender:\"Charlie\",target:\"$  {selectedTarget}\"},public_key:\"BHelfyIcJfiVU84vHphkCRQcTtQZo7XU5RTsMTb9YtzK2HuzU5aRAKjOJ3YFXEKvOEpL    egPaiDLMY8MbINBSO7E=\",signature:\"QCmv8W5gNhxOBrCq0na05u42qthwezAjEm6Q/QGD1YxFJaZ36Vv0wEEsrlYK/    483tVQ0IeXqBM87VqYolnoifg==\"}"
