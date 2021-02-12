@@ -73,3 +73,13 @@
 ! found empty item PAYMENT_HISTORY_LITERAL
 ! found empty item PAY_LITERAL
 ! found empty item NO_TRANSACTIONS_LITERAL
+! found empty item ALL_TRANSACTIONS_LITERAL
+! found empty item ACCOUNT_TYPE_DISCLAIMER
+! found empty item ACCOUNT_TYPE_LITERAL
+! found empty item ADD_PHOTO_DISCLAIMER_LITERAL
+! found empty item ADD_PHOTO_LITERAL
+! found empty item BUSINESS_ACCOUNT_LITERAL
+! found empty item CAMERA_ON
+! found empty item CANT_USE_SAME_PHONE_NUMBER
+! found empty item PRIVATE_ACCOUNT_LITERAL
+! found empty item SNAP_LITERAL
