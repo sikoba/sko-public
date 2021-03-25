@@ -227,3 +227,13 @@
 ! added missing item PAYMENT_HISTORY_LITERAL
 ! added missing item PAY_LITERAL
 ! added missing item NO_TRANSACTIONS_LITERAL
+! added missing item ALL_TRANSACTIONS_LITERAL
+! added missing item ACCOUNT_TYPE_DISCLAIMER
+! added missing item ACCOUNT_TYPE_LITERAL
+! added missing item ADD_PHOTO_DISCLAIMER_LITERAL
+! added missing item ADD_PHOTO_LITERAL
+! added missing item BUSINESS_ACCOUNT_LITERAL
+! added missing item CAMERA_ON
+! added missing item CANT_USE_SAME_PHONE_NUMBER
+! added missing item PRIVATE_ACCOUNT_LITERAL
+! added missing item SNAP_LITERAL
