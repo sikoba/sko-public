@@ -443,7 +443,7 @@
   "ACCOUNT_ACTIVATED_LITERAL": "Konto aktivéiert",
   "ACCOUNT_DECLINED_LITERAL": "Ufro fir Konto refuséiert",
   "WELCOME_LITERAL": "Wëllkomm",
-  "BEKI_INFO_SCREEN_DISCLAIMER": "BekiPay ass vum Veräin De Kär an Zesummenaarbecht mat sikobaPay am Kader vum EU-Leader Programm entwéckelt ginn.",
+  "BEKI_INFO_SCREEN_DISCLAIMER": "BekiPay ass vum Veräin De Kär an Zesummenaarbecht mat Sikoba am Kader vum EU-Leader Programm entwéckelt ginn.",
   "DEMURRAGE_LITERAL": "Ëmlaf-Impuls",
   "ACTIONS_LITERAL": "Aktiounen",
   "WITHDRAW_EUR_LITERAL": "Beki an Euro ëmwiesselen",
@@ -455,5 +455,6 @@
   "BUSINESS_NAME1_LITERAL": "Firmennumm 1",
   "BUSINESS_NAME2_LITERAL": "Firmennumm 2",
   "APPLY_LITERAL": "uwenden",
-  "TRY_LATER_LITERAL": "Probéiert wannechgelift méi spéit nach eng Kéier."
+  "TRY_LATER_LITERAL": "Probéiert wannechgelift méi spéit nach eng Kéier.",
+  "WITHDRAWAL_DISCLAIMER": "Hiweis: Dir kritt 95% vun der Beki Zomm an Euro op Äre Bankkonto iwwerwisen."
 }
