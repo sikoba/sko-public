@@ -72,7 +72,7 @@
 ! found empty item PAYMENT_HISTORY_LITERAL
 ! found empty item PAY_LITERAL
 ! found empty item NO_TRANSACTIONS_LITERAL
-! found empty item ALL_TRANSACTIONS_LITERAL
+! added missing item SEE_ALL_LITERAL
 ! found empty item ACCOUNT_TYPE_DISCLAIMER
 ! found empty item ACCOUNT_TYPE_LITERAL
 ! found empty item ADD_PHOTO_DISCLAIMER_LITERAL
@@ -99,3 +99,9 @@
 ! added missing item CONFIRM_WITHDRAWAL_LITERAL
 ! added missing item WITHDRAWAL_REQUEST_SENT_LITERAL
 ! added missing item WITHDRAW_LITERAL
+! added missing item WHAT_APP_DOES_LITERAL
+! added missing item BUSINESS_NAME1_LITERAL
+! added missing item BUSINESS_NAME2_LITERAL
+! added missing item APPLY_LITERAL
+! added missing item TRY_LATER_LITERAL
+! added missing item WITHDRAWAL_DISCLAIMER

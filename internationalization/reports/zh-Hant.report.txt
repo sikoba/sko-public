@@ -227,7 +227,7 @@
 ! added missing item PAYMENT_HISTORY_LITERAL
 ! added missing item PAY_LITERAL
 ! added missing item NO_TRANSACTIONS_LITERAL
-! added missing item ALL_TRANSACTIONS_LITERAL
+! added missing item SEE_ALL_LITERAL
 ! added missing item ACCOUNT_TYPE_DISCLAIMER
 ! added missing item ACCOUNT_TYPE_LITERAL
 ! added missing item ADD_PHOTO_DISCLAIMER_LITERAL
@@ -254,3 +254,9 @@
 ! added missing item CONFIRM_WITHDRAWAL_LITERAL
 ! added missing item WITHDRAWAL_REQUEST_SENT_LITERAL
 ! added missing item WITHDRAW_LITERAL
+! added missing item WHAT_APP_DOES_LITERAL
+! added missing item BUSINESS_NAME1_LITERAL
+! added missing item BUSINESS_NAME2_LITERAL
+! added missing item APPLY_LITERAL
+! added missing item TRY_LATER_LITERAL
+! added missing item WITHDRAWAL_DISCLAIMER

@@ -6,5 +6,4 @@
 ? found English text for OPTIONAL_LITERAL : Optional
 ? found English text for IBAN_LITERAL : IBAN
 ? found English text for BONUS_LITERAL : Bonus
-! added missing item ALL_TRANSACTIONS_LITERAL
 ? found English text for OK_LITERAL : OK
