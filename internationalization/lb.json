@@ -456,5 +456,9 @@
   "BUSINESS_NAME2_LITERAL": "Firmennumm 2",
   "APPLY_LITERAL": "uwenden",
   "TRY_LATER_LITERAL": "Probéiert wannechgelift méi spéit nach eng Kéier.",
-  "WITHDRAWAL_DISCLAIMER": "Hiweis: Dir kritt 95% vun der Beki Zomm an Euro op Äre Bankkonto iwwerwisen."
+  "WITHDRAWAL_DISCLAIMER": "Hiweis: Dir kritt 95% vun der Beki Zomm an Euro op Äre Bankkonto iwwerwisen.",
+  "NEVER_SHOW_AGAIN_LITERAL": "Ni méi weisen",
+  "ERROR_LOADING_PAYMENT_OPTIONS": "",
+  "WITHDRAWAL_EUR_AMOUNT_DISCLAIMER": "EUR wäert op Äre Bankkonto transferéiert ginn",
+  "COMMUNICATION_LITERAL": "Kommunikatioun"
 }
