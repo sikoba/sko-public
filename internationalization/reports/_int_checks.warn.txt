@@ -1,2 +1,4 @@
 
 ! unknown file README.md
+! unknown file Gemfile
+! Missing language(s) in 0.json: ["sw"]

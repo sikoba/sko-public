@@ -456,3 +456,7 @@
 {"APPLY_LITERAL", "Apply"},
 {"TRY_LATER_LITERAL", "Please try again later."},
 {"WITHDRAWAL_DISCLAIMER", "Note: You will receive 95% of the Beki amount in Euros transferred to your bank account."},
+{"NEVER_SHOW_AGAIN_LITERAL", "Never show again"},
+{"ERROR_LOADING_PAYMENT_OPTIONS", "You will need a credit line to pay since you don't have connections in common for credit conversion."},
+{"WITHDRAWAL_EUR_AMOUNT_DISCLAIMER", "EUR will be transferred to your bank account"},
+{"COMMUNICATION_LITERAL", "Communication"},

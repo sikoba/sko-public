@@ -7,3 +7,4 @@
 ? found English text for IBAN_LITERAL : IBAN
 ? found English text for BONUS_LITERAL : Bonus
 ? found English text for OK_LITERAL : OK
+! found empty item ERROR_LOADING_PAYMENT_OPTIONS
