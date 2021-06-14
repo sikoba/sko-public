@@ -9,3 +9,5 @@
 ! found empty item DEMURRAGE_LITERAL
 ? found English text for ACTIONS_LITERAL : Actions
 ? found English text for COMMUNICATION_LITERAL : Communication
+! found empty item TERMS_CONDITIONS_AGREEMENT
+! found empty item TERMS_CONDITIONS_LITERAL

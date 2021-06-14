@@ -460,3 +460,5 @@
 {"ERROR_LOADING_PAYMENT_OPTIONS", "Вам потребуется кредитная линия для оплаты, так как у вас нет общих контактов для конвертации кредита."},
 {"WITHDRAWAL_EUR_AMOUNT_DISCLAIMER", "Евро будут переведены на ваш банковский счет"},
 {"COMMUNICATION_LITERAL", "Примечание/назначение платежа"},
+{"TERMS_CONDITIONS_AGREEMENT", ""},
+{"TERMS_CONDITIONS_LITERAL", ""},

@@ -460,5 +460,7 @@
   "NEVER_SHOW_AGAIN_LITERAL": "Never show again",
   "ERROR_LOADING_PAYMENT_OPTIONS": "You will need a credit line to pay since you don't have connections in common for credit conversion.",
   "WITHDRAWAL_EUR_AMOUNT_DISCLAIMER": "EUR will be transferred to your bank account",
-  "COMMUNICATION_LITERAL": "Communication"
+  "COMMUNICATION_LITERAL": "Communication",
+  "TERMS_CONDITIONS_AGREEMENT": "I have read and agree to the Terms and Conditions",
+  "TERMS_CONDITIONS_LITERAL": "Terms&Conditions"
 }

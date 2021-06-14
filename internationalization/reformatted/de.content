@@ -460,3 +460,5 @@
 {"ERROR_LOADING_PAYMENT_OPTIONS", "Sie benötigen einen Kreditrahmen für die Zahlung, da Sie keine gemeinsamen Verbindungen für die Kreditumwandlung haben."},
 {"WITHDRAWAL_EUR_AMOUNT_DISCLAIMER", "EUR werden auf Ihr Bankkonto überwiesen"},
 {"COMMUNICATION_LITERAL", "Kommunikation"},
+{"TERMS_CONDITIONS_AGREEMENT", ""},
+{"TERMS_CONDITIONS_LITERAL", ""},

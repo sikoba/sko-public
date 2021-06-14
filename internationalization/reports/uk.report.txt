@@ -3,3 +3,5 @@
 ? found English text for IBAN_LITERAL : IBAN
 ? found English text for OK_LITERAL : OK
 ? found English text for DEMURRAGE_LITERAL : Demurrage
+! found empty item TERMS_CONDITIONS_AGREEMENT
+! found empty item TERMS_CONDITIONS_LITERAL

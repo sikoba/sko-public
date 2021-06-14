@@ -460,3 +460,5 @@
 {"ERROR_LOADING_PAYMENT_OPTIONS", "Vous aurez besoin d'une ligne de crédit pour payer puisque vous n'avez pas de connexions en commun pour la conversion du crédit."},
 {"WITHDRAWAL_EUR_AMOUNT_DISCLAIMER", "EUR seront transférés sur votre compte bancaire"},
 {"COMMUNICATION_LITERAL", "Communication"},
+{"TERMS_CONDITIONS_AGREEMENT", ""},
+{"TERMS_CONDITIONS_LITERAL", ""},
