@@ -460,5 +460,7 @@
   "NEVER_SHOW_AGAIN_LITERAL": "Більше ніколи не показувати",
   "ERROR_LOADING_PAYMENT_OPTIONS": "Для оплати вам знадобиться кредитна лінія, оскільки у вас немає спільних контактів для конвертації кредиту.",
   "WITHDRAWAL_EUR_AMOUNT_DISCLAIMER": "Євро будуть переведені на ваш банківський рахунок",
-  "COMMUNICATION_LITERAL": "Примітка / призначення платежу"
+  "COMMUNICATION_LITERAL": "Примітка / призначення платежу",
+  "TERMS_CONDITIONS_AGREEMENT": "",
+  "TERMS_CONDITIONS_LITERAL": ""
 }
